@@ -1,0 +1,494 @@
+{
+    " episode_title": "O Cliché da Princesa",
+    " episode_world": "world.wldx",
+    "bowsers_castle.lvlx": {
+        "events": [
+            {
+                "i": 5,
+                "msg": "Voce chegou! Achei que não iria vir atrás de mim dessa vez.",
+                "orig": "You're here! I was afraid you weren't going to come for me this time.",
+                "u": true
+            },
+            {
+                "i": 9,
+                "msg": "SOCORRO!!!",
+                "orig": "HELP!!!",
+                "u": true
+            },
+            {
+                "i": 12,
+                "msg": "Bowser: Diga adeus a sua preciosa princesa.",
+                "orig": "Bowser: Say goodbye to your precious princess.",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 2,
+                "orig": "Hahaha. You're not getting in here. This door has been magically sealed. You would have to gather 10 star pieces to open it. Get lost punk!",
+                "talk": "Hahaha. Não tem como chegar aqui. Essa porta esta selada magicamente. Você vai ter que achar 10 estrelas para entrar. Se manda, mané!",
+                "u": true
+            }
+        ]
+    },
+    "deep_cave.lvlx": {
+        "npc": [
+            {
+                "i": 10,
+                "orig": "I came down here looking for treasure, but all these blocks are in the way.",
+                "talk": "Eu vim em busca do tesouro, mas tem um monte de blocos bloquando o caminho.",
+                "u": true
+            }
+        ]
+    },
+    "frost_house.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "They say this door leads to the Dream World. I just can't seem to get it open.",
+                "talk": "Dizem que essa porta leva ao Mundo dos Sonhos. Eu não vejo um modo de abrir.",
+                "u": true
+            }
+        ]
+    },
+    "frost_land.lvlx": {
+        "npc": [
+            {
+                "i": 17,
+                "orig": "I'm freezing!",
+                "talk": "Estou congelando!",
+                "u": true
+            }
+        ]
+    },
+    "frost_warp.lvlx": {
+        "npc": [
+            {
+                "i": 5,
+                "orig": "This pipe leads to the Frosty Frost Frostlands. Have a safe trip!",
+                "talk": "Esse cano leva para as Terras Gélidas Geladas. Tenha uma boa viagem!",
+                "u": true
+            }
+        ]
+    },
+    "fungi_village.lvlx": {
+        "events": [
+            {
+                "i": 8,
+                "msg": "Ladrão! Agora vou te mostrar a minha verdadeira forma!",
+                "orig": "Thief! Now I will show you my true form!",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 3,
+                "orig": "Help, goombas are invading my basement!",
+                "talk": "Socorro, goombas estão invadindo meu porão!",
+                "u": true
+            },
+            {
+                "i": 5,
+                "orig": "Get out of my house!",
+                "talk": "Sai da minha casa!",
+                "u": true
+            },
+            {
+                "i": 8,
+                "orig": "This treasure could help you defeat Bowser.  Too bad it's mine!  I don't even want you looking at it.",
+                "talk": "Esse tesouro poderia te ajudar a derrotar o Bowser. Pena que ele é meu! E nem pense em bisbilhotar por aí.",
+                "u": true
+            },
+            {
+                "i": 9,
+                "orig": "I heard there is a star hidden in a cave under Mushroom Pass.",
+                "talk": "Eu ouvi por aí que tem uma estrela escondida numa caverna embaixo da Passagem dos Cogumelos.",
+                "u": true
+            },
+            {
+                "i": 11,
+                "orig": "So, you are looking for stars? I would ask around town.",
+                "talk": "Então, procurando por estrelas? Pergunte pela cidade.",
+                "u": true
+            },
+            {
+                "i": 12,
+                "orig": "That thief stole my pie!",
+                "talk": "Esse ladrão roubou a minha torta!",
+                "u": true
+            },
+            {
+                "i": 13,
+                "orig": "It's a wonderful night in Fungi Village!",
+                "talk": "Que noite maravilhosa na Vila Fungi!",
+                "u": true
+            },
+            {
+                "i": 14,
+                "orig": "Nom nom nom.",
+                "talk": "Nom nom nom.",
+                "u": true
+            },
+            {
+                "i": 15,
+                "orig": "You're looking for stars so you can get into Bowser's castle? I'll let you borrow mine.",
+                "talk": "Você esta procurando estrelas para entrar no Castelo do Bowser? Eu te empresto a minha.",
+                "u": true
+            },
+            {
+                "i": 16,
+                "orig": "Please give it back when you are done.",
+                "talk": "Por favor devolva quando acabar.",
+                "u": true
+            },
+            {
+                "i": 19,
+                "orig": "Das ist mein haustier koopa.",
+                "talk": "Ezta é mein koopa de caza.",
+                "u": true
+            }
+        ]
+    },
+    "marios_pad.lvlx": {
+        "events": [
+            {
+                "i": 7,
+                "msg": "Não esqueça de pegar alguns cogumelos no porão.",
+                "orig": "Don't forget to grab a few mushrooms from the basement.",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 1,
+                "orig": "The Princess was looking for you. She said something about a cake. Why don't you head for the castle to meet her?",
+                "talk": "A Princesa estava procurando por você. Ela disse algo sobre um bolo. Por que não vai ao castelo para ver ela?",
+                "u": true
+            },
+            {
+                "i": 2,
+                "orig": "You had better get a move on!",
+                "talk": "Melhor se apressar!",
+                "u": true
+            }
+        ]
+    },
+    "mushroom_castle.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "Help, the toilet is overflowing!",
+                "talk": "Me ajuda, o vaso está transbordando!",
+                "u": true
+            },
+            {
+                "i": 2,
+                "orig": "Bowser has once again kidnapped the princess. Take the warp pipe to Vista Hill and rescue her.",
+                "talk": "Bowser sequestrou a princesa de novo. Pegue o cano de teleporte para Colina Vista e resgate ela.",
+                "u": true
+            },
+            {
+                "i": 3,
+                "orig": "It's terrible!",
+                "talk": "É terrível!",
+                "u": true
+            },
+            {
+                "i": 4,
+                "orig": "The princess has been kidnapped!",
+                "talk": "A princesa foi sequestrada!",
+                "u": true
+            },
+            {
+                "i": 5,
+                "orig": "Go talk to the Chancellor.",
+                "talk": "Fale com o Chanceler.",
+                "u": true
+            },
+            {
+                "i": 6,
+                "orig": "Help!",
+                "talk": "Ajuda!",
+                "u": true
+            },
+            {
+                "i": 7,
+                "orig": "I can't hold it anymore!",
+                "talk": "Não dá mais pra segurar!",
+                "u": true
+            },
+            {
+                "i": 8,
+                "orig": "Bowser was here!",
+                "talk": "Bowser esteve aqui!",
+                "u": true
+            },
+            {
+                "i": 9,
+                "orig": "I'm waiting in line to use the bathroom.",
+                "talk": "Estou na fila para usar o banheiro.",
+                "u": true
+            },
+            {
+                "i": 10,
+                "orig": "Toad always takes so long.",
+                "talk": "Toad sempre demora.",
+                "u": true
+            }
+        ]
+    },
+    "mushroom_heights.lvlx": {
+        "npc": [
+            {
+                "i": 14,
+                "orig": "What are you doing all the way up here? Be careful not to fall off, it's a loooong way down!",
+                "talk": "O que você tá fazendo aqui em cima?  Tome cuidado para não cair, é uma looonoga descida!",
+                "u": true
+            }
+        ]
+    },
+    "mushroom_pass.lvlx": {
+        "npc": [
+            {
+                "i": 48,
+                "orig": "Bowser's minions have taken over this road. Be careful!",
+                "talk": "Os servos do Bowser tomaram conta da estrada. Tenha cuidado!",
+                "u": true
+            },
+            {
+                "i": 58,
+                "orig": "Great. Now I will never get home.",
+                "talk": "Ótimo. Agora eu nunca vou chegar em casa.",
+                "u": true
+            },
+            {
+                "i": 59,
+                "orig": "They've destroyed the bridge! You will have to find another way around.",
+                "talk": "Eles destruíram a ponte! Você vai ter que encontrar outro caminho.",
+                "u": true
+            },
+            {
+                "i": 85,
+                "orig": "Be careful. There is a pink dino up ahead that won't let anyone through.",
+                "talk": "Cuidado. Tem um dinossauro rosa que não esta deixando ninguém passar.",
+                "u": true
+            }
+        ]
+    },
+    "nimbus_land.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "We get along with all flying creatures here.",
+                "talk": "Nos damos bem quem todas as criaturas voadoras aqui.",
+                "u": true
+            },
+            {
+                "i": 7,
+                "orig": "If you can open these boxes you can have what's inside.",
+                "talk": "Se você abrir essas caixas, pode ficar com o que tiver dentro.",
+                "u": true
+            },
+            {
+                "i": 8,
+                "orig": "We don't get many visitors here.",
+                "talk": "Não recebemos muitos visitantes.",
+                "u": true
+            },
+            {
+                "i": 25,
+                "orig": "Welcome to Nimbus Land!",
+                "talk": "Bem-vindo a Terra Nimbus!",
+                "u": true
+            },
+            {
+                "i": 26,
+                "orig": "I'M AFRAID OF HEIGHTS!",
+                "talk": "EU TENHO MEDO DE ALTURA!",
+                "u": true
+            },
+            {
+                "i": 27,
+                "orig": "I think you may find what you are looking for here.",
+                "talk": "Eu acho que você encontrará o que busca aqui.",
+                "u": true
+            },
+            {
+                "i": 28,
+                "orig": "I love it here!",
+                "talk": "Eu amo esse lugar!",
+                "u": true
+            },
+            {
+                "i": 32,
+                "orig": "Prince Mallow is out right now, but you can take his clown car.",
+                "talk": "Principe Mallow não está agora, mas pode pegar o Carro Palhaço dele.",
+                "u": true
+            }
+        ]
+    },
+    "spiny_farm.lvlx": {
+        "npc": [
+            {
+                "i": 9,
+                "orig": "I wouldn't go in there.",
+                "talk": "Eu não entraria se fosse você.",
+                "u": true
+            },
+            {
+                "i": 10,
+                "orig": "Get me out of here!",
+                "talk": "Me tira daqui!",
+                "u": true
+            },
+            {
+                "i": 17,
+                "orig": "That jerk tricked us. Now we are stuck down here.",
+                "talk": "Aquele idiota nos enganou. Agora estamos presos aqui embaixo.",
+                "u": true
+            },
+            {
+                "i": 76,
+                "orig": "Stars eh? I think I might have one in my closet.",
+                "talk": "Estrelas né? Acho que tenho uma no meuarmário.",
+                "u": true
+            }
+        ]
+    },
+    "star_road.lvlx": {
+        "npc": [
+            {
+                "i": 8,
+                "orig": "This door leads to the Forgotten Forest.",
+                "talk": "Essa porta leva à Floresta Esquecida.",
+                "u": true
+            },
+            {
+                "i": 9,
+                "orig": "This door leads to the Ghastly Ghosthouse.",
+                "talk": "Essa porta leva à Casa Fantasma Fantasmagórica.",
+                "u": true
+            },
+            {
+                "i": 10,
+                "orig": "This door leads to the Hurtful Hotlands.",
+                "talk": "Essa porta leva às Terras Quentes Dolorosas",
+                "u": true
+            },
+            {
+                "i": 11,
+                "orig": "This door leads to Retro Town.",
+                "talk": "Essa porta leva à Cidade Retrô.",
+                "u": true
+            },
+            {
+                "i": 14,
+                "orig": "Welcome to Star Road Station!",
+                "talk": "Bem-vindo a Estação Estrada da Estrela!",
+                "u": true
+            },
+            {
+                "i": 15,
+                "orig": "Be careful if you go in here. It's dangerous!",
+                "talk": "Tome cuidado se você for ai, é perigoso!",
+                "u": true
+            }
+        ]
+    },
+    "world.wldx": {
+        "credits": "Redigit\n\nTraduzido por: gabrieljamh",
+        "credits-n": "Redigit\n\nTraduzido por: gabrieljamh",
+        "credits-orig": "Redigit\n",
+        "levels": [
+            {
+                "i": 0,
+                "orig": "Star Road Station",
+                "tit": "Estação Estrada da Estrela",
+                "u": true
+            },
+            {
+                "i": 1,
+                "orig": "Warp to Mushroom Castle",
+                "tit": "Vá para Castelo Cogumelo",
+                "u": true
+            },
+            {
+                "i": 2,
+                "orig": "Nimbus Land",
+                "tit": "Terra Nimmbus",
+                "u": true
+            },
+            {
+                "i": 3,
+                "orig": "Frosty Frost Frostland",
+                "tit": "Terras Gélidas Geladas"
+            },
+            {
+                "i": 4,
+                "orig": "Fungi Village",
+                "tit": "Vila Fungi"
+            },
+            {
+                "i": 5,
+                "orig": "Warp to Mushroom Castle",
+                "tit": "Vá para Castelo Cogumelo",
+                "u": true
+            },
+            {
+                "i": 6,
+                "orig": "Mushroom Castle",
+                "tit": "Castelo Cogumelo",
+                "u": true
+            },
+            {
+                "i": 7,
+                "orig": "Warp to Vista Hill",
+                "tit": "Vá para Colina Vista",
+                "u": true
+            },
+            {
+                "i": 8,
+                "orig": "Strange House",
+                "tit": "Casa Estranha",
+                "u": true
+            },
+            {
+                "i": 9,
+                "orig": "Mushroom Heights",
+                "tit": "Cogumelos Altos",
+                "u": true
+            },
+            {
+                "i": 10,
+                "orig": "Spiny Farm",
+                "tit": "Fazenda de Spiny",
+                "u": true
+            },
+            {
+                "i": 11,
+                "orig": "Mushroom Pass",
+                "tit": "Passagem dos Cogumelos",
+                "u": true
+            },
+            {
+                "i": 12,
+                "orig": "Warp to Frostland",
+                "tit": "Vá para Terra Gelada",
+                "u": true
+            },
+            {
+                "i": 13,
+                "orig": "Mario's Pad",
+                "tit": "Cantinho do Mario"
+            },
+            {
+                "i": 14,
+                "orig": "Bowser's Castle",
+                "tit": "Castelo do Bowser"
+            }
+        ],
+        "title": "O Cliché da Princesa",
+        "title-orig": "The Princess Cliché",
+        "title-u": true
+    }
+}

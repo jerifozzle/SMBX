@@ -1,0 +1,24 @@
+00:00.001 [Info]: <Application started>
+00:00.004 [Info]: TheXTech 1.3.7.3 (branch stable-1.3.7.x, commit 5c77552d)
+00:10.137 [Info]: Render GL: compiled for SDL 2.32.10, running with SDL 2.32.10
+00:10.139 [Info]: Render GL: attempting to create OpenGL Compatibility 3.3+ context...
+00:10.538 [Info]: Render GL: successfully initialized OpenGL 4.6 (Profile Compatibility)
+00:10.541 [Info]: OpenGL version: 4.6.0 Compatibility Profile Context 23.19.21.13.250623
+00:10.544 [Info]: OpenGL renderer: AMD Radeon(TM) Graphics
+00:10.546 [Info]: GLSL version: 4.60
+00:10.551 [Info]: OpenGL video mode: R8 G8 B8 with 16-bit depth buffer
+00:10.553 [Info]: RenderGL: max texture size 16384
+00:10.564 [Info]: GLProgramObject: will use the native OpenGL compiler for OpenGL ES 2 shaders.
+00:10.580 [Info]: GLProgramObject: will use the native OpenGL compiler for OpenGL ES 3 shaders.
+00:10.588 [Warning]: GLProgramObject: attempted to register uniform u_step_size of invalid type 8b5e
+00:10.598 [Info]: Initialized OpenGL 4.6-P with draw features: logicOp, depth buffer, client-side arrays, NPOT textures, BGRA format, ES2 shaders, ES3 shaders, and framebuffers: game, fb read, multipass, lighting, depth read
+00:11.073 [Warning]: Translations aren't supported without new font engine loaded (the 'fonts' directory is required)
+00:11.580 [Warning]: Failed to set the pixel sizes 10 for the font C:/Users/aseda/Downloads/smbx/fonts/wenquanyi_9pt.pcf: invalid pixel size
+00:11.582 [Warning]: Failed to set the pixel sizes 10 for the font C:/Users/aseda/Downloads/smbx/fonts/Galmuri9.ttf: invalid pixel size
+00:13.977 [Info]: Will load SFX C:/Users/aseda/Downloads/smbx/sound/dungeon-win.ogg as a multi-music
+00:14.110 [Info]: Will load SFX C:/Users/aseda/Downloads/smbx/sound/game-beat.ogg as a multi-music
+00:14.189 [Info]: Will load SFX C:/Users/aseda/Downloads/smbx/sound/smw-exit.ogg as a multi-music
+00:14.244 [Info]: Will load SFX C:/Users/aseda/Downloads/smbx/sound/sm-explosion.ogg as a multi-music
+00:14.411 [Info]: Will load SFX C:/Users/aseda/Downloads/smbx/sound/smb-exit.ogg as a multi-music
+00:14.412 [Info]: Loaded sound effects: dumped=98; as music=5
+03:27.648 [Info]: <Application closed>

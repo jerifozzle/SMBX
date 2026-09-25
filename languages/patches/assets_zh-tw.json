@@ -1,0 +1,107 @@
+{
+    "character": {
+        "name1": "瑪利歐",
+        "name2": "路易吉",
+        "name3": "碧姬公主",
+        "name4": "奇諾比奧",
+        "name5": "林克"
+    },
+    "editor": {
+        "background2": {
+            "fam-set1": {
+                "header": "超瑪一代"
+            },
+            "fam-set2": {
+                "header": "超瑪USA"
+            },
+            "fam-set3": {
+                "header": "超瑪三代"
+            },
+            "fam-set4": {
+                "header": "超瑪世界"
+            }
+        },
+        "music": {
+            "fam-64": {
+                "header": "超瑪64"
+            },
+            "fam-fight": {
+                "header": "任鬥",
+                "music39": "海拉魯神殿",
+                "music40": "梅塔騎士的逆襲",
+                "music52": "瑪利歐地下",
+                "music53": "瓦路易吉彈珠台"
+            },
+            "fam-misc": {
+                "music13": "新超瑪地面",
+                "music18": "玻璃沙灘銀河",
+                "music20": "庫巴要塞",
+                "music23": "謎之森林",
+                "music37": "酷冰冰雪山",
+                "music38": "耀西島",
+                "music56": "蘑菇峽谷",
+                "music8": "克尼利亞"
+            },
+            "fam-rpg": {
+                "header": "超瑪RPG",
+                "music16": "花毛毛森林",
+                "music21": "庫巴戰鬥",
+                "music30": "瑪利歐的家",
+                "music31": "漣漪鎮",
+                "music32": "呱呱湖",
+                "music33": "棉花糖之國",
+                "music34": "玫瑰鎮"
+            },
+            "fam-set1": {
+                "header": "超瑪一代"
+            },
+            "fam-set2": {
+                "header": "超瑪USA",
+                "music43": "沃特"
+            },
+            "fam-set3": {
+                "header": "超瑪三代"
+            },
+            "fam-space": {
+                "header": "銀河戰士",
+                "music11": "布林斯塔",
+                "music22": "布林斯塔洞窟",
+                "music45": "決戰母腦"
+            },
+            "fam-world": {
+                "header": "超瑪世界"
+            }
+        },
+        "sound": {
+            "fam-boss": {
+                "sound38": "凱瑟琳吐蛋",
+                "sound39": "撞擊凱瑟琳",
+                "sound41": "凱瑟琳陣亡",
+                "sound44": "庫巴陣亡",
+                "sound62": "沃特泡泡",
+                "sound63": "沃特陣亡"
+            },
+            "fam-hero": {
+                "header": "薩爾達",
+                "sound53": "擊殺薩爾達NPC",
+                "sound77": "林克擊劍",
+                "sound78": "林克受傷",
+                "sound80": "林克陣亡",
+                "sound82": "林克發射",
+                "sound83": "林克獲得道具",
+                "sound86": "林克加速"
+            }
+        },
+        "worldMusic": {
+            "fam-new": {
+                "header": "新超瑪"
+            },
+            "fam-set3": {
+                "header": "超瑪三代"
+            },
+            "fam-world": {
+                "header": "超瑪世界"
+            }
+        }
+    }
+}

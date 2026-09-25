@@ -1,0 +1,107 @@
+{
+    "character": {
+        "name1": "马力欧",
+        "name2": "路易吉",
+        "name3": "碧姬公主",
+        "name4": "奇诺比奥",
+        "name5": "林克"
+    },
+    "editor": {
+        "background2": {
+            "fam-set1": {
+                "header": "超马一代"
+            },
+            "fam-set2": {
+                "header": "超马USA"
+            },
+            "fam-set3": {
+                "header": "超马三代"
+            },
+            "fam-set4": {
+                "header": "超马世界"
+            }
+        },
+        "music": {
+            "fam-64": {
+                "header": "超马64"
+            },
+            "fam-fight": {
+                "header": "任斗",
+                "music39": "海拉鲁神殿",
+                "music40": "梅塔骑士的逆袭",
+                "music52": "马力欧地下",
+                "music53": "瓦路易吉弹珠台"
+            },
+            "fam-misc": {
+                "music13": "新超马地面",
+                "music18": "玻璃沙滩银河",
+                "music20": "酷霸要塞",
+                "music23": "迷之森林",
+                "music37": "酷冰冰雪山",
+                "music38": "耀西岛",
+                "music56": "蘑菇峡谷",
+                "music8": "克尼利亚"
+            },
+            "fam-rpg": {
+                "header": "超马RPG",
+                "music16": "花毛毛森林",
+                "music21": "酷霸战斗",
+                "music30": "马力欧的家",
+                "music31": "涟漪镇",
+                "music32": "呱呱湖",
+                "music33": "棉花糖之国",
+                "music34": "玫瑰镇"
+            },
+            "fam-set1": {
+                "header": "超马一代"
+            },
+            "fam-set2": {
+                "header": "超马USA",
+                "music43": "沃特"
+            },
+            "fam-set3": {
+                "header": "超马三代"
+            },
+            "fam-space": {
+                "header": "银河战士",
+                "music11": "布林斯塔",
+                "music22": "布林斯塔洞窟",
+                "music45": "决战母脑"
+            },
+            "fam-world": {
+                "header": "超马世界"
+            }
+        },
+        "sound": {
+            "fam-boss": {
+                "sound38": "凯瑟琳吐蛋",
+                "sound39": "撞击凯瑟琳",
+                "sound41": "凯瑟琳阵亡",
+                "sound44": "酷霸阵亡",
+                "sound62": "沃特泡泡",
+                "sound63": "沃特阵亡"
+            },
+            "fam-hero": {
+                "header": "塞尔达",
+                "sound53": "击杀塞尔达NPC",
+                "sound77": "林克击剑",
+                "sound78": "林克受伤",
+                "sound80": "林克阵亡",
+                "sound82": "林克发射",
+                "sound83": "林克获得道具",
+                "sound86": "林克加速"
+            }
+        },
+        "worldMusic": {
+            "fam-new": {
+                "header": "新超马"
+            },
+            "fam-set3": {
+                "header": "超马三代"
+            },
+            "fam-world": {
+                "header": "超马世界"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+00:00.002 [Info]: <Application started>
+00:00.007 [Info]: TheXTech 1.3.7.3 (branch stable-1.3.7.x, commit 5c77552d)
+00:20.371 [Info]: Render GL: compiled for SDL 2.32.10, running with SDL 2.32.10
+00:20.374 [Info]: Render GL: attempting to create OpenGL Compatibility 3.3+ context...
+00:20.872 [Info]: Render GL: successfully initialized OpenGL 4.6 (Profile Compatibility)
+00:20.874 [Info]: OpenGL version: 4.6.0 Compatibility Profile Context 23.19.21.13.250623
+00:20.876 [Info]: OpenGL renderer: AMD Radeon(TM) Graphics
+00:20.879 [Info]: GLSL version: 4.60
+00:20.881 [Info]: OpenGL video mode: R8 G8 B8 with 16-bit depth buffer
+00:20.882 [Info]: RenderGL: max texture size 16384
+00:20.910 [Info]: GLProgramObject: will use the native OpenGL compiler for OpenGL ES 2 shaders.
+00:20.931 [Info]: GLProgramObject: will use the native OpenGL compiler for OpenGL ES 3 shaders.
+00:20.942 [Warning]: GLProgramObject: attempted to register uniform u_step_size of invalid type 8b5e
+00:20.960 [Info]: Initialized OpenGL 4.6-P with draw features: logicOp, depth buffer, client-side arrays, NPOT textures, BGRA format, ES2 shaders, ES3 shaders, and framebuffers: game, fb read, multipass, lighting, depth read
+00:22.115 [Warning]: Translations aren't supported without new font engine loaded (the 'fonts' directory is required)
+00:22.574 [Warning]: Failed to set the pixel sizes 10 for the font C:/Games/SMBX/fonts/wenquanyi_9pt.pcf: invalid pixel size
+00:22.578 [Warning]: Failed to set the pixel sizes 10 for the font C:/Games/SMBX/fonts/Galmuri9.ttf: invalid pixel size
+00:25.391 [Info]: Will load SFX C:/Games/SMBX/sound/dungeon-win.ogg as a multi-music
+00:25.558 [Info]: Will load SFX C:/Games/SMBX/sound/game-beat.ogg as a multi-music
+00:25.673 [Info]: Will load SFX C:/Games/SMBX/sound/smw-exit.ogg as a multi-music
+00:25.752 [Info]: Will load SFX C:/Games/SMBX/sound/sm-explosion.ogg as a multi-music
+00:25.937 [Info]: Will load SFX C:/Games/SMBX/sound/smb-exit.ogg as a multi-music
+00:25.938 [Info]: Loaded sound effects: dumped=98; as music=5
+01:09.643 [Warning]: Unknown music alias 'wmusic0'
+01:15.222 [Warning]: Unknown music alias 'wmusic0'
+02:06.458 [Warning]: Unknown music alias 'music0'
+07:01.379 [Warning]: Unknown music alias 'music0'
+10:10.566 [Warning]: Unknown music alias 'wmusic0'
+10:18.379 [Warning]: Unknown music alias 'wmusic0'
+13:00.183 [Warning]: Unknown music alias 'wmusic0'
+13:24.331 [Warning]: Unknown music alias 'wmusic0'
+14:48.493 [Warning]: Unknown music alias 'wmusic0'
+15:06.714 [Info]: <Application closed>

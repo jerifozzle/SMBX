@@ -1,0 +1,1596 @@
+{
+    " episode_title": "The Invasion 2",
+    " episode_world": "world.wldx",
+    "bonus1.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-5-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-6-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "event-3-msg"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "i": 3,
+                "msg": "#if player(3)\nHey, you! Get off my lawn!\nI don't care if you're a princess, just, get out!\n#else\nYou boys better get off my lawn!\n#endif"
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "t": 75,
+                "talk": "Stay outta my house.  The door's locked and I don't even want you thinkin' about going down my chimney."
+            },
+            {
+                "i": 6,
+                "t": 75,
+                "talk": "I can't believe you broke into my house.  You better not have hurt Hugo!"
+            }
+        ]
+    },
+    "bonus2.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-6-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 6,
+                "t": 94,
+                "talk": "Take anything you want!"
+            }
+        ]
+    },
+    "bonus3.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-3-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "event-9-msg"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "i": 9,
+                "msg": "You can have my treasure!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 3,
+                "t": 94,
+                "talk": "Welcome!  Please take anything that can help you on your journey."
+            }
+        ]
+    },
+    "bonus4.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-0-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 0,
+                "t": 94,
+                "talk": "The pink Yoshi spits out veggies after swallowing it's enemies.  The purple Yoshi can do a ground pound by pressing Alt-Run."
+            }
+        ]
+    },
+    "bonus5.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-0-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-2-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-8-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-11-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-12-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-13-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-14-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-15-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 0,
+                "t": 196,
+                "talk": "This item has the power to stop time!"
+            },
+            {
+                "i": 2,
+                "t": 196,
+                "talk": "This is our vault.  Please take anything that could be of use."
+            },
+            {
+                "i": 8,
+                "t": 196,
+                "talk": "Lakitu's Shoe is very special. It gives the wearer the power of flight!"
+            },
+            {
+                "i": 11,
+                "t": 196,
+                "talk": "This egg contains a very rare Yoshi, please treat him well."
+            },
+            {
+                "i": 12,
+                "t": 196,
+                "talk": "We are Lumas, guardians of the Star Palace."
+            },
+            {
+                "i": 13,
+                "t": 196,
+                "talk": "The girl in the blue dress is Rosalina!"
+            },
+            {
+                "i": 14,
+                "t": 196,
+                "talk": "This is the Star Palace."
+            },
+            {
+                "i": 15,
+                "t": 198,
+                "talk": "Welcome to the Star Palace!  There are special treasures waiting for you if you can collect enough stars."
+            }
+        ]
+    },
+    "bonus6.lvlx": {
+    },
+    "dungeon1.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "event-12-msg"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "i": 12,
+                "msg": "Some enemies can be picked up if you hold down and press run while standing on them."
+            }
+        ]
+    },
+    "dungeon2.lvlx": {
+    },
+    "dungeon3.lvlx": {
+    },
+    "dungeon4.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-63-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 63,
+                "t": 198,
+                "talk": "What took you so long?  Let's go.",
+                "trig": 7
+            }
+        ]
+    },
+    "level0.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-0-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-2-talk",
+                    "event-5-msg",
+                    "event-6-msg",
+                    "event-7-msg"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-3-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-4-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "by-npc": [
+                    2
+                ],
+                "i": 5,
+                "msg": "Don't look at me like that...  Something bad is happening!",
+                "trig": 6
+            },
+            {
+                "by-event": [
+                    5
+                ],
+                "i": 6,
+                "msg": "Bowser has joined forces with villians from other realities and is invading The Mushroom Kingdom.",
+                "trig": 7
+            },
+            {
+                "by-event": [
+                    6
+                ],
+                "i": 7,
+                "msg": "Please go foil Bowser's plans like you always do."
+            }
+        ],
+        "npc": [
+            {
+                "i": 0,
+                "t": 198,
+                "talk": "Please be careful, the road ahead is dangerous."
+            },
+            {
+                "i": 2,
+                "t": 198,
+                "talk": "They wouldn't let me in, but I had to talk to you.",
+                "trig": 5
+            },
+            {
+                "i": 3,
+                "t": 94,
+                "talk": "A princess should not be making house calls to a plumber!"
+            },
+            {
+                "i": 4,
+                "t": 75,
+                "talk": "Oh no, where did the Princess go?"
+            }
+        ]
+    },
+    "level1.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-5-talk",
+                    "event-10-msg"
+                ],
+                "note": "Toad explains about character switch"
+            },
+            {
+                "messages": [
+                    "npc-48-talk"
+                ],
+                "note": "Did you like my gift?"
+            },
+            {
+                "messages": [
+                    "npc-49-talk"
+                ],
+                "note": "Toad greetings and gives a bonus"
+            }
+        ],
+        "events": [
+            {
+                "by-npc": [
+                    5
+                ],
+                "i": 10,
+                "msg": "All you have to do is pause the game and press left or right."
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "t": 94,
+                "talk": "Did you know that you can change your character at the world map screen?",
+                "trig": 10
+            },
+            {
+                "i": 48,
+                "t": 94,
+                "talk": "#if player(3)\nDid you like my gift?\n#else\nI hope that was helpful.\n#endif"
+            },
+            {
+                "i": 49,
+                "t": 94,
+                "talk": "#if player(3)\nOh, Your Highness! It's such an honor to see you, Princess! I have a gift for you, let me open the chest...\n#elif player(4)\nHello, bro! What's up? Take the thing from the chest, you'll need it!\n#elif player(5)\nOh, you that hero from a far kingdom that everyone keep talking about? Here, you can have what's in this chest.\n#else\nAren't you that plumber that everyone keeps talking about? Here, you can have what's in this chest.\n#endif",
+                "trig": 9
+            }
+        ]
+    },
+    "level10.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-24-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 24,
+                "t": 75,
+                "talk": "Help, I can't swim!"
+            }
+        ]
+    },
+    "level11.lvlx": {
+    },
+    "level12.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-2-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 2,
+                "t": 94,
+                "talk": "Where are all those mushrooms coming from?"
+            }
+        ]
+    },
+    "level13.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-97-talk"
+                ],
+                "note": "Toad is angry on broken eggs"
+            },
+            {
+                "messages": [
+                    "npc-98-talk"
+                ],
+                "note": "Toad asks to don't touch eggs"
+            }
+        ],
+        "npc": [
+            {
+                "i": 97,
+                "t": 75,
+                "talk": "#if player(3)\nOh no! My eggs! What have you done, Peach! I thought better of you!\n#else\nWhat's wrong with you, why did you smash my eggs?  Get out of here, jerk!\n#endif"
+            },
+            {
+                "i": 98,
+                "t": 94,
+                "talk": "#if player(3)\nOh, hello Peach! It's such an honor that you came to visit me! Can I ask you to be careful with my eggs?\n#else\nYou look like an honest guy.  I'll let you pass, just be carefull with my eggs.\n#endif"
+            }
+        ]
+    },
+    "level14.lvlx": {
+    },
+    "level15.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-13-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 13,
+                "t": 94,
+                "talk": "The glowing thing above us is the Billy Gun.  Once you grab it you better hold on tight!"
+            }
+        ]
+    },
+    "level16.lvlx": {
+    },
+    "level17.lvlx": {
+    },
+    "level18.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-1-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-3-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-4-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-15-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-16-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 1,
+                "t": 75,
+                "talk": "I've been waiting in line forever!"
+            },
+            {
+                "i": 3,
+                "t": 94,
+                "talk": "This place looks so fun.  I can't wait to get it!"
+            },
+            {
+                "i": 4,
+                "t": 101,
+                "talk": "Hey you! No cutting in line."
+            },
+            {
+                "i": 15,
+                "t": 75,
+                "talk": "Let me out!  Let me OUT!"
+            },
+            {
+                "i": 16,
+                "t": 94,
+                "talk": "He tricked us.  There are monsters everywhere."
+            }
+        ]
+    },
+    "level19.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-23-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 23,
+                "t": 94,
+                "talk": "I bet something good will happen if you collect all the Blue Coins!"
+            }
+        ]
+    },
+    "level2.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-47-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 47,
+                "t": 94,
+                "talk": "I wonder what's in that pipe above us?  Maybe I could make it up there if I had a giant shoe or something to jump out of."
+            }
+        ]
+    },
+    "level20.lvlx": {
+    },
+    "level21.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-20-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 20,
+                "t": 94,
+                "talk": "Shouldn't this level be in the Ice World?  Whatever..."
+            }
+        ]
+    },
+    "level22.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-109-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 109,
+                "t": 102,
+                "talk": "I AM ERROR."
+            }
+        ]
+    },
+    "level23.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-228-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 228,
+                "t": 94,
+                "talk": "Until reciently, the moles that live here used to be friendly.  Something has happened that is causing them to behave aggressively.  Be careful!"
+            }
+        ]
+    },
+    "level25.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-96-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 96,
+                "t": 94,
+                "talk": "Why is it called Pwnhammer anyway?"
+            }
+        ]
+    },
+    "level26.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-157-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 157,
+                "t": 94,
+                "talk": "Those blue plants look suspicious.  If you grab them you better not let go!"
+            }
+        ]
+    },
+    "level27.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-7-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-13-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-43-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "event-17-msg"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "i": 17,
+                "msg": "If you hold down and press run on the part of the ship that is glowing blue, you will get a special item!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 7,
+                "t": 94,
+                "talk": "Bowser's airships are invading!"
+            },
+            {
+                "i": 13,
+                "t": 75,
+                "talk": "Help!"
+            },
+            {
+                "i": 43,
+                "t": 75,
+                "talk": "Hurry up and get on.  They are about to leave without you!",
+                "trig": 16
+            }
+        ]
+    },
+    "level28.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-6-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-7-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 6,
+                "t": 94,
+                "talk": "I hope it serves you well."
+            },
+            {
+                "i": 7,
+                "t": 94,
+                "talk": "These are Podoboo's Shoes. They allow their wearers to walk on lava!",
+                "trig": 4
+            }
+        ]
+    },
+    "level29.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-9-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 9,
+                "t": 94,
+                "talk": "Do you have anything to eat?  I have been lost in here for days."
+            }
+        ]
+    },
+    "level3.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-19-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 19,
+                "t": 94,
+                "talk": "I can't believe that pipe goes all the way up here."
+            }
+        ]
+    },
+    "level30.lvlx": {
+    },
+    "level31.lvlx": {
+    },
+    "level32.lvlx": {
+    },
+    "level33.lvlx": {
+    },
+    "level34.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-83-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 83,
+                "t": 94,
+                "talk": "The enemy ahead can be tough.  Use the turnips to take him out as soon as possible."
+            }
+        ]
+    },
+    "level35.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-407-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 407,
+                "t": 102,
+                "talk": "It's dangerous to go alone! Take this.",
+                "trig": 4
+            }
+        ]
+    },
+    "level36.lvlx": {
+    },
+    "level37.lvlx": {
+    },
+    "level38.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-182-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 182,
+                "t": 94,
+                "talk": "You better move quick, those platforms don't look sturdy."
+            }
+        ]
+    },
+    "level39.lvlx": {
+    },
+    "level4.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-1-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 1,
+                "t": 94,
+                "talk": "This level is red on the world map.  That means there is a secret exit here somewhere.  Can you find it?"
+            }
+        ]
+    },
+    "level40.lvlx": {
+    },
+    "level41.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-54-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-55-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-56-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 54,
+                "t": 94,
+                "talk": "I dropped all my Frog Coins.  If you find them for me I will give you a reward."
+            },
+            {
+                "i": 55,
+                "t": 94,
+                "talk": "You're the best!"
+            },
+            {
+                "i": 56,
+                "t": 94,
+                "talk": "You found all my Frog Coins!  Please take this treasure.",
+                "trig": 9
+            }
+        ]
+    },
+    "level42.lvlx": {
+    },
+    "level43.lvlx": {
+    },
+    "level44.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-23-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-24-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-25-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 23,
+                "t": 94,
+                "talk": "You brought me all the Red Coins!  Please take my treasure as a reward.",
+                "trig": 5
+            },
+            {
+                "i": 24,
+                "t": 94,
+                "talk": "I will give you something special if you bring me all the Red Coins."
+            },
+            {
+                "i": 25,
+                "t": 94,
+                "talk": "Thanks again!"
+            }
+        ]
+    },
+    "level45.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-33-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 33,
+                "t": 94,
+                "talk": "Those bubbles look pretty strong.  I wonder if you could actually swim in them?"
+            }
+        ]
+    },
+    "level46.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-29-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-30-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 29,
+                "t": 94,
+                "talk": "The Clown Car is weak on the top side.  It will hurt if an enemy touches you there."
+            },
+            {
+                "i": 30,
+                "t": 94,
+                "talk": "You can stack those cannons on the Clown Car and fire them while driving!"
+            }
+        ]
+    },
+    "level47.lvlx": {
+    },
+    "level48.lvlx": {
+    },
+    "level49.lvlx": {
+    },
+    "level5.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-69-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-70-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-71-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "event-6-msg"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "i": 6,
+                "msg": "You can throw a shell in many different ways depending on the direction you are holding the control pad when you let go of the run button."
+            }
+        ],
+        "npc": [
+            {
+                "i": 69,
+                "t": 94,
+                "talk": "You can have anything you find in there."
+            },
+            {
+                "i": 70,
+                "t": 94,
+                "talk": "You got rid of all the purple blocks!  As a reward I'll open this door for you.",
+                "trig": 5
+            },
+            {
+                "i": 71,
+                "t": 94,
+                "talk": "I've been ordered to get rid of all the purple blocks.  I'm going to be here all night."
+            }
+        ]
+    },
+    "level6.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "event-3-msg"
+                ],
+                "note": ""
+            }
+        ],
+        "events": [
+            {
+                "i": 3,
+                "msg": "Hold DOWN and press the RUN button to grab enemies while standing on them."
+            }
+        ]
+    },
+    "level7.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-148-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 148,
+                "t": 94,
+                "talk": "If we are underground, why can I still see the sky?"
+            }
+        ]
+    },
+    "level8.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-298-talk"
+                ],
+                "note": ""
+            },
+            {
+                "messages": [
+                    "npc-300-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 298,
+                "t": 94,
+                "talk": "You can't take this through the pipe.  Try hitting it now and see if anything happens on the other side."
+            },
+            {
+                "i": 300,
+                "t": 94,
+                "talk": "I wonder what's on the other side of this wall?  I bet if I had a hammer I could smash through it."
+            }
+        ]
+    },
+    "level9.lvlx": {
+        "dialogues": [
+            {
+                "messages": [
+                    "npc-12-talk"
+                ],
+                "note": ""
+            }
+        ],
+        "npc": [
+            {
+                "i": 12,
+                "t": 94,
+                "talk": "My rocket was hit by one of those bombs.  Now I'm stuck here."
+            }
+        ]
+    },
+    "use-tr-id": false,
+    "warp1.lvlx": {
+    },
+    "warp10.lvlx": {
+    },
+    "warp11.lvlx": {
+    },
+    "warp12.lvlx": {
+    },
+    "warp13.lvlx": {
+    },
+    "warp2.lvlx": {
+    },
+    "warp3.lvlx": {
+    },
+    "warp4.lvlx": {
+    },
+    "warp5.lvlx": {
+    },
+    "warp6.lvlx": {
+    },
+    "warp7.lvlx": {
+    },
+    "warp8.lvlx": {
+    },
+    "warp9.lvlx": {
+    },
+    "world.wldx": {
+        "credits": "Redigit\n",
+        "credits-n": "Please include yourself after two new lines: \"Translated into XXX by:\\nTheKing\" in your language. Proper names should be transliterated into your language with valid phonetics. Nicknames can be copied as-is.",
+        "levels": [
+            {
+                "f": "level7.lvlx",
+                "i": 0,
+                "tit": "Megaton Vase Hole"
+            },
+            {
+                "f": "warp3.lvlx",
+                "i": 1,
+                "tit": "Warp to Subcon Underground"
+            },
+            {
+                "f": "level3.lvlx",
+                "i": 2,
+                "tit": "Grassy Grass Grasslands"
+            },
+            {
+                "f": "level35.lvlx",
+                "i": 3,
+                "tit": "The Lost Woods"
+            },
+            {
+                "f": "warp8.lvlx",
+                "i": 4,
+                "tit": "Warp to Frosty Frost Frostlands"
+            },
+            {
+                "f": "dungeon1.lvlx",
+                "i": 5,
+                "tit": "Dungeon of Pain"
+            },
+            {
+                "f": "level4.lvlx",
+                "i": 6,
+                "tit": "Misplaced Pipehammer Maze"
+            },
+            {
+                "f": "level23.lvlx",
+                "i": 7,
+                "tit": "The Mole Hole"
+            },
+            {
+                "f": "level6.lvlx",
+                "i": 8,
+                "tit": "Subcon Nightmare Land"
+            },
+            {
+                "f": "level1.lvlx",
+                "i": 9,
+                "tit": "Super Easy Road"
+            },
+            {
+                "f": "warp4.lvlx",
+                "i": 10,
+                "tit": "Warp to Subcon Underground"
+            },
+            {
+                "f": "warp5.lvlx",
+                "i": 11,
+                "tit": "Warp to Mushroom Plains"
+            },
+            {
+                "f": "level2.lvlx",
+                "i": 12,
+                "tit": "White Savage Zone"
+            },
+            {
+                "f": "warp5.lvlx",
+                "i": 13,
+                "tit": "Warp to the Subcon Underground"
+            },
+            {
+                "f": "warp9.lvlx",
+                "i": 14,
+                "tit": "Warp to Frosty Frost Frostlands"
+            },
+            {
+                "f": "warp6.lvlx",
+                "i": 15,
+                "tit": "Warp to Subcon Underground"
+            },
+            {
+                "f": "warp4.lvlx",
+                "i": 16,
+                "tit": "Warp to Frosty Frost Frostlands"
+            },
+            {
+                "f": "warp2.lvlx",
+                "i": 17,
+                "tit": "Warp to the Mushroom Plains"
+            },
+            {
+                "f": "warp9.lvlx",
+                "i": 18,
+                "tit": "Warp to Koopa Kingdom"
+            },
+            {
+                "f": "level5.lvlx",
+                "i": 19,
+                "tit": "Floating Brick Niche"
+            },
+            {
+                "f": "level8.lvlx",
+                "i": 20,
+                "tit": "Frigid Awesome Land"
+            },
+            {
+                "f": "level37.lvlx",
+                "i": 21,
+                "tit": "DO NOT ENTER"
+            },
+            {
+                "f": "warp6.lvlx",
+                "i": 22,
+                "tit": "Warp to Dino Island"
+            },
+            {
+                "f": "warp1.lvlx",
+                "i": 23,
+                "tit": "Warp to Frosty Frost Frostlands"
+            },
+            {
+                "f": "level27.lvlx",
+                "i": 24,
+                "tit": "The Invasion"
+            },
+            {
+                "f": "level18.lvlx",
+                "i": 25,
+                "tit": "Painful Playland"
+            },
+            {
+                "f": "warp1.lvlx",
+                "i": 26,
+                "tit": "Warp to the Mushroom Plains"
+            },
+            {
+                "f": "level0.lvlx",
+                "i": 27,
+                "tit": "The Bros. Pad"
+            },
+            {
+                "f": "bonus1.lvlx",
+                "i": 28,
+                "tit": "Get Off My Lawn"
+            },
+            {
+                "f": "warp3.lvlx",
+                "i": 29,
+                "tit": "Warp to Frosty Frost Frostlands"
+            },
+            {
+                "f": "level9.lvlx",
+                "i": 30,
+                "tit": "Field of Shotgun Vases"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 31,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "level43.lvlx",
+                "i": 32,
+                "tit": "Random Water Level"
+            },
+            {
+                "f": "level26.lvlx",
+                "i": 33,
+                "tit": "The Suck"
+            },
+            {
+                "f": "level13.lvlx",
+                "i": 34,
+                "tit": "Super Nostalgia World"
+            },
+            {
+                "f": "level14.lvlx",
+                "i": 35,
+                "tit": "Jumpy Hoppy Turtle Zone"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 36,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 37,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "level10.lvlx",
+                "i": 38,
+                "tit": "Brick Hole Massacre"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 39,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "level19.lvlx",
+                "i": 40,
+                "tit": "Flying Raccoon Zone"
+            },
+            {
+                "f": "level25.lvlx",
+                "i": 41,
+                "tit": "Pwnhammer Duece",
+                "tit-n": "A second part of \"Pwnhammer\". The word is the 2008s English \"pwn\" slang word that means \"defeat\", \"kill\", etc. Please use local slang with a similar meaning, like in Russian \"мочить\". (Details https://www.urbandictionary.com/define.php?term=pwn)."
+            },
+            {
+                "f": "level12.lvlx",
+                "i": 42,
+                "tit": "Super Pipe Action Town"
+            },
+            {
+                "f": "dungeon3.lvlx",
+                "i": 43,
+                "tit": "Dungeon of Strange Happenings"
+            },
+            {
+                "f": "level20.lvlx",
+                "i": 44,
+                "tit": "Go Go Goomba"
+            },
+            {
+                "f": "level16.lvlx",
+                "i": 45,
+                "tit": "Switch Action Zone"
+            },
+            {
+                "f": "level21.lvlx",
+                "i": 46,
+                "tit": "The Great Fish Fiasco"
+            },
+            {
+                "f": "bonus4.lvlx",
+                "i": 47,
+                "tit": "Another Bonus Area"
+            },
+            {
+                "f": "level22.lvlx",
+                "i": 48,
+                "tit": "Retroville"
+            },
+            {
+                "f": "warp7.lvlx",
+                "i": 49,
+                "tit": "Warp to Dino Island"
+            },
+            {
+                "f": "warp13.lvlx",
+                "i": 50,
+                "tit": "Warp to Wet Water Zone"
+            },
+            {
+                "f": "level24.lvlx",
+                "i": 51,
+                "tit": "A Short Level"
+            },
+            {
+                "f": "bonus2.lvlx",
+                "i": 52,
+                "tit": "Secret Squirrel Area"
+            },
+            {
+                "f": "warp2.lvlx",
+                "i": 53,
+                "tit": "Warp to Frosty Frost Frostlands"
+            },
+            {
+                "f": "dungeon2.lvlx",
+                "i": 54,
+                "tit": "Dungeon of Agony"
+            },
+            {
+                "f": "warp8.lvlx",
+                "i": 55,
+                "tit": "Warp to Koopa Kingdom"
+            },
+            {
+                "f": "level15.lvlx",
+                "i": 56,
+                "tit": "Pwnhammer",
+                "tit-n": "It's from the 2008s English \"pwn\" slang word that means \"defeat\", \"kill\", etc. Please use local slang with a similar meaning, like in Russian \"мочить\". (Details https://www.urbandictionary.com/define.php?term=pwn)."
+            },
+            {
+                "f": "warp7.lvlx",
+                "i": 57,
+                "tit": "Warp to Koopa Kingdom"
+            },
+            {
+                "f": "level36.lvlx",
+                "i": 58,
+                "tit": "Underground Battle Arena"
+            },
+            {
+                "f": "warp12.lvlx",
+                "i": 59,
+                "tit": "Warp to Wet Water Zone"
+            },
+            {
+                "f": "bonus3.lvlx",
+                "i": 60,
+                "tit": "The Treasure House"
+            },
+            {
+                "f": "warp10.lvlx",
+                "i": 61,
+                "tit": "Warp to The Hurtful Hotlands"
+            },
+            {
+                "f": "level17.lvlx",
+                "i": 62,
+                "tit": "Panic Zone"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 63,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "level31.lvlx",
+                "i": 64,
+                "tit": "Pyramid Action Machine"
+            },
+            {
+                "f": "warp10.lvlx",
+                "i": 65,
+                "tit": "Warp to Koopa Kingdom"
+            },
+            {
+                "f": "level30.lvlx",
+                "i": 66,
+                "tit": "Pyramid of Fail"
+            },
+            {
+                "f": "level28.lvlx",
+                "i": 67,
+                "tit": "The Hot Boot"
+            },
+            {
+                "f": "level38.lvlx",
+                "i": 68,
+                "tit": "Lakitu War Zone"
+            },
+            {
+                "f": "level29.lvlx",
+                "i": 69,
+                "tit": "Desert Maze"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 70,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "level34.lvlx",
+                "i": 71,
+                "tit": "The Rawest Forest"
+            },
+            {
+                "f": "level33.lvlx",
+                "i": 72,
+                "tit": "The Invasion 2"
+            },
+            {
+                "f": "warp11.lvlx",
+                "i": 73,
+                "tit": "Warp to The Rawest Forest"
+            },
+            {
+                "f": "level32.lvlx",
+                "i": 74,
+                "tit": "Sandy Ghosty Hammer Town"
+            },
+            {
+                "f": "level39.lvlx",
+                "i": 75,
+                "tit": "Shell Heaven"
+            },
+            {
+                "f": "dungeon4.lvlx",
+                "i": 76,
+                "tit": "Dungeon of Inappropriate Phrases"
+            },
+            {
+                "f": "warp11.lvlx",
+                "i": 77,
+                "tit": "Warp to The Hurtful Hotlands"
+            },
+            {
+                "f": "warp13.lvlx",
+                "i": 78,
+                "tit": "Warp to The Lava Hole"
+            },
+            {
+                "f": "level40.lvlx",
+                "i": 79,
+                "tit": "The Invasion 3"
+            },
+            {
+                "f": "level11.lvlx",
+                "i": 80,
+                "tit": "Token Water Level"
+            },
+            {
+                "f": "level42.lvlx",
+                "i": 81,
+                "tit": "Oldschool Plumbers"
+            },
+            {
+                "f": "level41.lvlx",
+                "i": 82,
+                "tit": "The Water is Not a Lie"
+            },
+            {
+                "f": "level45.lvlx",
+                "i": 83,
+                "tit": "Bubbles in the Sky"
+            },
+            {
+                "f": "warp12.lvlx",
+                "i": 84,
+                "tit": "Warp to the Rawest Forest"
+            },
+            {
+                "f": "bonus5.lvlx",
+                "i": 85,
+                "tit": "Star Warp"
+            },
+            {
+                "f": "level46.lvlx",
+                "i": 86,
+                "tit": "The Invasion 4"
+            },
+            {
+                "f": "level47.lvlx",
+                "i": 87,
+                "tit": "Easymode Tanks"
+            },
+            {
+                "f": "level48.lvlx",
+                "i": 88,
+                "tit": "Hardmode Tanks"
+            },
+            {
+                "f": "level49.lvlx",
+                "i": 89,
+                "tit": "The King of Koopas"
+            },
+            {
+                "f": "level44.lvlx",
+                "i": 90,
+                "tit": "Dire Dire Rocks"
+            }
+        ],
+        "title": "The Invasion 2"
+    }
+}

@@ -1,0 +1,1173 @@
+{
+    " episode_title": "蘑菇王国的入侵 第二季",
+    " episode_world": "world.wldx",
+    "bonus1.lvlx": {
+        "events": [
+            {
+                "i": 3,
+                "msg": "#if player(3)\n你给我出去！\n我才不管你是不是公主呢，给我出去！\n#else\n你这家伙，给我马上出去！\n#endif",
+                "orig": "#if player(3)\nHey, you! Get off my lawn!\nI don't care if you're a princess, just, get out!\n#else\nYou boys better get off my lawn!\n#endif",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "orig": "Stay outta my house.  The door's locked and I don't even want you thinkin' about going down my chimney.",
+                "talk": "赶快从我的小屋出去！即使门上了锁，我也不能让你从烟囱进去。",
+                "u": true
+            },
+            {
+                "i": 6,
+                "orig": "I can't believe you broke into my house.  You better not have hurt Hugo!",
+                "talk": "我不能相信你闯到我的屋里。你别在那里搞破坏！",
+                "u": true
+            }
+        ]
+    },
+    "bonus2.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "Take anything you want!",
+                "talk": "您想要什么就要什么！",
+                "u": true
+            }
+        ]
+    },
+    "bonus3.lvlx": {
+        "events": [
+            {
+                "i": 9,
+                "msg": "您可以从我的宝藏里找到有用的补给！",
+                "orig": "You can have my treasure!",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 3,
+                "orig": "Welcome!  Please take anything that can help you on your journey.",
+                "talk": "欢迎光临！如果有对您的冒险有帮助的东西，请随时拿走。",
+                "u": true
+            }
+        ]
+    },
+    "bonus4.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "The pink Yoshi spits out veggies after swallowing it's enemies.  The purple Yoshi can do a ground pound by pressing Alt-Run.",
+                "talk": "粉色耀西吃东西之后，会吐出蔬菜；而紫色耀西可以通过按下第二奔跑键进行震地动作。",
+                "u": true
+            }
+        ]
+    },
+    "bonus5.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "This item has the power to stop time!",
+                "talk": "这件法宝拥有让时间停止的力量！",
+                "u": true
+            },
+            {
+                "i": 2,
+                "orig": "This is our vault.  Please take anything that could be of use.",
+                "talk": "这是我们的地道，如果你觉得什么东西有用，请随时拿走。",
+                "u": true
+            },
+            {
+                "i": 8,
+                "orig": "Lakitu's Shoe is very special. It gives the wearer the power of flight!",
+                "talk": "这双蓝色的鞋子非常特殊，它将赐予你在天空飞行的力量！",
+                "u": true
+            },
+            {
+                "i": 11,
+                "orig": "This egg contains a very rare Yoshi, please treat him well.",
+                "talk": "这颗蛋会孵出一个非常稀有的耀西，请你好好对待它。",
+                "u": true
+            },
+            {
+                "i": 12,
+                "orig": "We are Lumas, guardians of the Star Palace.",
+                "talk": "我们是琪琪，是星之宫殿的守护者。",
+                "u": true
+            },
+            {
+                "i": 13,
+                "orig": "The girl in the blue dress is Rosalina!",
+                "talk": "那个穿着蓝色连衣裙的女孩就是罗莎塔！",
+                "u": true
+            },
+            {
+                "i": 14,
+                "orig": "This is the Star Palace.",
+                "talk": "这里是星之宫殿。",
+                "u": true
+            },
+            {
+                "i": 15,
+                "orig": "Welcome to the Star Palace!  There are special treasures waiting for you if you can collect enough stars.",
+                "talk": "欢迎来到星之宫殿！如果您收集了足够的星星，您就可以在那里发现特殊的补给了。",
+                "u": true
+            }
+        ]
+    },
+    "dungeon1.lvlx": {
+        "events": [
+            {
+                "i": 12,
+                "msg": "",
+                "orig": "Some enemies can be picked up if you hold down and press run while standing on them.",
+                "u": true
+            }
+        ]
+    },
+    "dungeon4.lvlx": {
+        "npc": [
+            {
+                "i": 63,
+                "orig": "What took you so long?  Let's go.",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level0.lvlx": {
+        "events": [
+            {
+                "i": 5,
+                "msg": "别看着我……大事不好了！",
+                "orig": "Don't look at me like that...  Something bad is happening!",
+                "u": true
+            },
+            {
+                "i": 6,
+                "msg": "酷霸王加入了邪恶势力，开始入侵了我们的蘑菇王国。",
+                "orig": "Bowser has joined forces with villians from other realities and is invading The Mushroom Kingdom.",
+                "u": true
+            },
+            {
+                "i": 7,
+                "msg": "我们得想办法阻止酷霸王的计划。",
+                "orig": "Please go foil Bowser's plans like you always do.",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 0,
+                "orig": "Please be careful, the road ahead is dangerous.",
+                "talk": "前方危险，请当心！",
+                "u": true
+            },
+            {
+                "i": 2,
+                "orig": "They wouldn't let me in, but I had to talk to you.",
+                "talk": "他们不让我进去，但我有话要跟你说。",
+                "u": true
+            },
+            {
+                "i": 3,
+                "orig": "A princess should not be making house calls to a plumber!",
+                "talk": "公主不应该到水管工的家里拜访的！",
+                "u": true
+            },
+            {
+                "i": 4,
+                "orig": "Oh no, where did the Princess go?",
+                "talk": "哎呀，公主跑到哪里去了？",
+                "u": true
+            }
+        ]
+    },
+    "level1.lvlx": {
+        "events": [
+            {
+                "i": 10,
+                "msg": "您唯一要做的就是，按下左右方向键。",
+                "orig": "All you have to do is pause the game and press left or right.",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "orig": "Did you know that you can change your character at the world map screen?",
+                "talk": "您知道如何在大地图中更换角色吗？",
+                "u": true
+            },
+            {
+                "i": 48,
+                "orig": "#if player(3)\nDid you like my gift?\n#else\nI hope that was helpful.\n#endif",
+                "talk": "#if player(3)\n你喜欢我送给你的礼物吗？\n#else\n希望对你的冒险有帮助。\n#endif",
+                "u": true
+            },
+            {
+                "i": 49,
+                "orig": "#if player(3)\nOh, Your Highness! It's such an honor to see you, Princess! I have a gift for you, let me open the chest...\n#elif player(4)\nHello, bro! What's up? Take the thing from the chest, you'll need it!\n#elif player(5)\nOh, you that hero from a far kingdom that everyone keep talking about? Here, you can have what's in this chest.\n#else\nAren't you that plumber that everyone keeps talking about? Here, you can have what's in this chest.\n#endif",
+                "talk": "#if player(3)\n哦，公主殿下！见到你是我的荣幸，让我打开宝箱看看……\n#elif player(4)\n哥哥您好！什么事？去打开宝箱，可能有您需要的东西！\n#elif player(5)\n原来是来自远方的英雄啊……您有什么想表达的？去打开宝箱，看看里面有什么惊喜吧！\n#else\n原来是水管工啊……您有什么想表达的？去打开宝箱，看看里面有什么惊喜吧！\n#endif",
+                "u": true
+            }
+        ]
+    },
+    "level10.lvlx": {
+        "npc": [
+            {
+                "i": 24,
+                "orig": "Help, I can't swim!",
+                "talk": "我不会游泳，救命啊！",
+                "u": true
+            }
+        ]
+    },
+    "level12.lvlx": {
+        "npc": [
+            {
+                "i": 2,
+                "orig": "Where are all those mushrooms coming from?",
+                "talk": "这些蘑菇是从哪来的？",
+                "u": true
+            }
+        ]
+    },
+    "level13.lvlx": {
+        "npc": [
+            {
+                "i": 97,
+                "orig": "#if player(3)\nOh no! My eggs! What have you done, Peach! I thought better of you!\n#else\nWhat's wrong with you, why did you smash my eggs?  Get out of here, jerk!\n#endif",
+                "talk": "",
+                "u": true
+            },
+            {
+                "i": 98,
+                "orig": "#if player(3)\nOh, hello Peach! It's such an honor that you came to visit me! Can I ask you to be careful with my eggs?\n#else\nYou look like an honest guy.  I'll let you pass, just be carefull with my eggs.\n#endif",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level15.lvlx": {
+        "npc": [
+            {
+                "i": 13,
+                "orig": "The glowing thing above us is the Billy Gun.  Once you grab it you better hold on tight!",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level18.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "I've been waiting in line forever!",
+                "talk": "我等了你好久了！",
+                "u": true
+            },
+            {
+                "i": 3,
+                "orig": "This place looks so fun.  I can't wait to get it!",
+                "talk": "这里看似挺好玩的，我都等不及了！",
+                "u": true
+            },
+            {
+                "i": 4,
+                "orig": "Hey you! No cutting in line.",
+                "talk": "",
+                "u": true
+            },
+            {
+                "i": 15,
+                "orig": "Let me out!  Let me OUT!",
+                "talk": "放我出去！快放我出去！",
+                "u": true
+            },
+            {
+                "i": 16,
+                "orig": "He tricked us.  There are monsters everywhere.",
+                "talk": "我们上了他的当，这里到处都是怪物。",
+                "u": true
+            }
+        ]
+    },
+    "level19.lvlx": {
+        "npc": [
+            {
+                "i": 23,
+                "orig": "I bet something good will happen if you collect all the Blue Coins!",
+                "talk": "如果你收集了所有的蓝色金币，将会发生某件好事情！",
+                "u": true
+            }
+        ]
+    },
+    "level2.lvlx": {
+        "npc": [
+            {
+                "i": 47,
+                "orig": "I wonder what's in that pipe above us?  Maybe I could make it up there if I had a giant shoe or something to jump out of.",
+                "talk": "我想知道我们头顶上的水管通往哪里？如果我有一双大鞋子，或者什么能够从里面跳出来的东西，我或许可以看看。",
+                "u": true
+            }
+        ]
+    },
+    "level21.lvlx": {
+        "npc": [
+            {
+                "i": 20,
+                "orig": "Shouldn't this level be in the Ice World?  Whatever...",
+                "talk": "这关不应该是冰雪世界吗？奇怪……",
+                "u": true
+            }
+        ]
+    },
+    "level22.lvlx": {
+        "npc": [
+            {
+                "i": 109,
+                "orig": "I AM ERROR.",
+                "talk": "我叫错误。",
+                "u": true
+            }
+        ]
+    },
+    "level23.lvlx": {
+        "npc": [
+            {
+                "i": 228,
+                "orig": "Until reciently, the moles that live here used to be friendly.  Something has happened that is causing them to behave aggressively.  Be careful!",
+                "talk": "居住在这里的鼹鼠们曾经是朋友，但由于不可抗拒的因素，它们变成了敌人。请小心一点！",
+                "u": true
+            }
+        ]
+    },
+    "level25.lvlx": {
+        "npc": [
+            {
+                "i": 96,
+                "orig": "Why is it called Pwnhammer anyway?",
+                "talk": "为什么我觉得很奇怪？",
+                "u": true
+            }
+        ]
+    },
+    "level26.lvlx": {
+        "npc": [
+            {
+                "i": 157,
+                "orig": "Those blue plants look suspicious.  If you grab them you better not let go!",
+                "talk": "这些蓝色的草看起来很可疑。但如果你抓住了它们，就别放走！",
+                "u": true
+            }
+        ]
+    },
+    "level27.lvlx": {
+        "events": [
+            {
+                "i": 17,
+                "msg": "在闪闪发光的蓝色小东西上按住下键和奔跑键，你将可以获得一个特殊道具！",
+                "orig": "If you hold down and press run on the part of the ship that is glowing blue, you will get a special item!",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 7,
+                "orig": "Bowser's airships are invading!",
+                "talk": "",
+                "u": true
+            },
+            {
+                "i": 13,
+                "orig": "Help!",
+                "talk": "救命啊！",
+                "u": true
+            },
+            {
+                "i": 43,
+                "orig": "Hurry up and get on.  They are about to leave without you!",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level28.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "I hope it serves you well.",
+                "talk": "",
+                "u": true
+            },
+            {
+                "i": 7,
+                "orig": "These are Podoboo's Shoes. They allow their wearers to walk on lava!",
+                "talk": "这些是红色的鞋子，穿上它，你就可以在岩浆上行动自如了！",
+                "u": true
+            }
+        ]
+    },
+    "level29.lvlx": {
+        "npc": [
+            {
+                "i": 9,
+                "orig": "Do you have anything to eat?  I have been lost in here for days.",
+                "talk": "你有什么吃的吗？我在这里流浪了好几天了……",
+                "u": true
+            }
+        ]
+    },
+    "level3.lvlx": {
+        "npc": [
+            {
+                "i": 19,
+                "orig": "I can't believe that pipe goes all the way up here.",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level34.lvlx": {
+        "npc": [
+            {
+                "i": 83,
+                "orig": "The enemy ahead can be tough.  Use the turnips to take him out as soon as possible.",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level35.lvlx": {
+        "npc": [
+            {
+                "i": 407,
+                "orig": "It's dangerous to go alone! Take this.",
+                "talk": "你独自一个人去冒险，太危险了！",
+                "u": true
+            }
+        ]
+    },
+    "level38.lvlx": {
+        "npc": [
+            {
+                "i": 182,
+                "orig": "You better move quick, those platforms don't look sturdy.",
+                "talk": "这些平台似乎不稳当，请你尽快离开。",
+                "u": true
+            }
+        ]
+    },
+    "level4.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "This level is red on the world map.  That means there is a secret exit here somewhere.  Can you find it?",
+                "talk": "本关是大地图上的红色关卡，这意味着某个地方会有一个隐藏出口，你能找到它吗？",
+                "u": true
+            }
+        ]
+    },
+    "level41.lvlx": {
+        "npc": [
+            {
+                "i": 54,
+                "orig": "I dropped all my Frog Coins.  If you find them for me I will give you a reward.",
+                "talk": "我不小心把我的青蛙金币弄丢了，如果你找回来的话，我将送你一份礼物。",
+                "u": true
+            },
+            {
+                "i": 55,
+                "orig": "You're the best!",
+                "talk": "你是最棒的！",
+                "u": true
+            },
+            {
+                "i": 56,
+                "orig": "You found all my Frog Coins!  Please take this treasure.",
+                "talk": "你帮我收集了所有的青蛙金币！这是送给你的礼物，请你收下。",
+                "u": true
+            }
+        ]
+    },
+    "level44.lvlx": {
+        "npc": [
+            {
+                "i": 23,
+                "orig": "You brought me all the Red Coins!  Please take my treasure as a reward.",
+                "talk": "哇，你终于找齐了红色金币！这是送给你的礼物，作为你的奖励，请你收下。",
+                "u": true
+            },
+            {
+                "i": 24,
+                "orig": "I will give you something special if you bring me all the Red Coins.",
+                "talk": "如果你找齐了红色金币，我就会把这份礼物送给你。",
+                "u": true
+            },
+            {
+                "i": 25,
+                "orig": "Thanks again!",
+                "talk": "再次感谢你！",
+                "u": true
+            }
+        ]
+    },
+    "level45.lvlx": {
+        "npc": [
+            {
+                "i": 33,
+                "orig": "Those bubbles look pretty strong.  I wonder if you could actually swim in them?",
+                "talk": "这些泡泡似乎很坚硬，我想知道你能在那里游泳吗？",
+                "u": true
+            }
+        ]
+    },
+    "level46.lvlx": {
+        "npc": [
+            {
+                "i": 29,
+                "orig": "The Clown Car is weak on the top side.  It will hurt if an enemy touches you there.",
+                "talk": "这座小丑飞船的弱点在其上面，如果你的上面被敌人碰到，你将会受伤。",
+                "u": true
+            },
+            {
+                "i": 30,
+                "orig": "You can stack those cannons on the Clown Car and fire them while driving!",
+                "talk": "你可以在小丑飞船上堆叠枪炮。当你驾驶飞船时，你就可以发射炮弹了！",
+                "u": true
+            }
+        ]
+    },
+    "level5.lvlx": {
+        "events": [
+            {
+                "i": 6,
+                "msg": "按住方向键的同时松开奔跑键，可以朝不同的方向扔出龟壳。",
+                "orig": "You can throw a shell in many different ways depending on the direction you are holding the control pad when you let go of the run button.",
+                "u": true
+            }
+        ],
+        "npc": [
+            {
+                "i": 69,
+                "orig": "You can have anything you find in there.",
+                "talk": "",
+                "u": true
+            },
+            {
+                "i": 70,
+                "orig": "You got rid of all the purple blocks!  As a reward I'll open this door for you.",
+                "talk": "恭喜！您破坏了所有的紫色砖块！我将开启这扇门让您过去，作为您的奖励。",
+                "u": true
+            },
+            {
+                "i": 71,
+                "orig": "I've been ordered to get rid of all the purple blocks.  I'm going to be here all night.",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "level6.lvlx": {
+        "events": [
+            {
+                "i": 3,
+                "msg": "当您站在敌人的上方时，按住“下”键并按“奔跑”键可以拿走它们。",
+                "orig": "Hold DOWN and press the RUN button to grab enemies while standing on them.",
+                "u": true
+            }
+        ]
+    },
+    "level7.lvlx": {
+        "npc": [
+            {
+                "i": 148,
+                "orig": "If we are underground, why can I still see the sky?",
+                "talk": "我们如果在地下，为什么又能看到浩瀚的天空？",
+                "u": true
+            }
+        ]
+    },
+    "level8.lvlx": {
+        "npc": [
+            {
+                "i": 298,
+                "orig": "You can't take this through the pipe.  Try hitting it now and see if anything happens on the other side.",
+                "talk": "你无法将这种东西从水管里带出去。请试着按下开关，看看另一处会发生什么事情。",
+                "u": true
+            },
+            {
+                "i": 300,
+                "orig": "I wonder what's on the other side of this wall?  I bet if I had a hammer I could smash through it.",
+                "talk": "我想知道这堵墙的另一处有什么神秘的东西？如果我有锤子的话，我可以考虑将其砸碎并通过这里。",
+                "u": true
+            }
+        ]
+    },
+    "level9.lvlx": {
+        "npc": [
+            {
+                "i": 12,
+                "orig": "My rocket was hit by one of those bombs.  Now I'm stuck here.",
+                "talk": "",
+                "u": true
+            }
+        ]
+    },
+    "world.wldx": {
+        "credits": "Redigit\nTranslation to ZH-CN（汉化）by:\n\nYingchun Soul",
+        "credits-n": "Redigit\n",
+        "credits-orig": "Redigit\n",
+        "levels": [
+            {
+                "i": 0,
+                "orig": "Megaton Vase Hole",
+                "tit": "花瓶内部的神秘世界",
+                "u": true
+            },
+            {
+                "i": 1,
+                "orig": "Warp to Subcon Underground",
+                "tit": "传送水管：梦幻洞窟",
+                "u": true
+            },
+            {
+                "i": 2,
+                "orig": "Grassy Grass Grasslands",
+                "tit": "碧绿草原",
+                "u": true
+            },
+            {
+                "i": 3,
+                "orig": "The Lost Woods",
+                "tit": "失落森林",
+                "u": true
+            },
+            {
+                "i": 4,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "传送水管：寒冰之境",
+                "u": true
+            },
+            {
+                "i": 5,
+                "orig": "Dungeon of Pain",
+                "tit": "大城堡1",
+                "u": true
+            },
+            {
+                "i": 6,
+                "orig": "Misplaced Pipehammer Maze",
+                "tit": "乱七八糟的水管迷宫",
+                "u": true
+            },
+            {
+                "i": 7,
+                "orig": "The Mole Hole",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 8,
+                "orig": "Subcon Nightmare Land",
+                "tit": "充满恐怖气息的梦幻岛",
+                "u": true
+            },
+            {
+                "i": 9,
+                "orig": "Super Easy Road",
+                "tit": "新手之路",
+                "u": true
+            },
+            {
+                "i": 10,
+                "orig": "Warp to Subcon Underground",
+                "tit": "传送水管：梦幻洞窟",
+                "u": true
+            },
+            {
+                "i": 11,
+                "orig": "Warp to Mushroom Plains",
+                "tit": "传送水管：蘑菇平原",
+                "u": true
+            },
+            {
+                "i": 12,
+                "orig": "White Savage Zone",
+                "tit": "苔原区域",
+                "u": true
+            },
+            {
+                "i": 13,
+                "orig": "Warp to the Subcon Underground",
+                "tit": "传送水管：梦幻洞窟",
+                "u": true
+            },
+            {
+                "i": 14,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "传送水管：寒冰之境",
+                "u": true
+            },
+            {
+                "i": 15,
+                "orig": "Warp to Subcon Underground",
+                "tit": "传送水管：梦幻洞窟",
+                "u": true
+            },
+            {
+                "i": 16,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "传送水管：寒冰之境",
+                "u": true
+            },
+            {
+                "i": 17,
+                "orig": "Warp to the Mushroom Plains",
+                "tit": "传送水管：蘑菇平原",
+                "u": true
+            },
+            {
+                "i": 18,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "传送水管：诺库诺库王国",
+                "u": true
+            },
+            {
+                "i": 19,
+                "orig": "Floating Brick Niche",
+                "tit": "浮空砖块风波",
+                "u": true
+            },
+            {
+                "i": 20,
+                "orig": "Frigid Awesome Land",
+                "tit": "奇幻冰地",
+                "u": true
+            },
+            {
+                "i": 21,
+                "orig": "DO NOT ENTER",
+                "tit": "请勿入内",
+                "u": true
+            },
+            {
+                "i": 22,
+                "orig": "Warp to Dino Island",
+                "tit": "传送水管：恐龙岛",
+                "u": true
+            },
+            {
+                "i": 23,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "传送水管：寒冰之境",
+                "u": true
+            },
+            {
+                "i": 24,
+                "orig": "The Invasion",
+                "tit": "第一次飞船入侵",
+                "u": true
+            },
+            {
+                "i": 25,
+                "orig": "Painful Playland",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 26,
+                "orig": "Warp to the Mushroom Plains",
+                "tit": "传送水管：蘑菇平原",
+                "u": true
+            },
+            {
+                "i": 27,
+                "orig": "The Bros. Pad",
+                "tit": "马力欧兄弟之家",
+                "u": true
+            },
+            {
+                "i": 28,
+                "orig": "Get Off My Lawn",
+                "tit": "滚出我的小屋！",
+                "u": true
+            },
+            {
+                "i": 29,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "传送水管：寒冰之境",
+                "u": true
+            },
+            {
+                "i": 30,
+                "orig": "Field of Shotgun Vases",
+                "tit": "充满着喷射花瓶的草原",
+                "u": true
+            },
+            {
+                "i": 31,
+                "orig": "Star Warp",
+                "tit": "星星传送门",
+                "u": true
+            },
+            {
+                "i": 32,
+                "orig": "Random Water Level",
+                "tit": "随机的水中关卡",
+                "u": true
+            },
+            {
+                "i": 33,
+                "orig": "The Suck",
+                "tit": "梦幻岛大混战",
+                "u": true
+            },
+            {
+                "i": 34,
+                "orig": "Super Nostalgia World",
+                "tit": "经典平原关卡",
+                "u": true
+            },
+            {
+                "i": 35,
+                "orig": "Jumpy Hoppy Turtle Zone",
+                "tit": "乌龟乐园",
+                "u": true
+            },
+            {
+                "i": 36,
+                "orig": "Star Warp",
+                "tit": "星星传送门",
+                "u": true
+            },
+            {
+                "i": 37,
+                "orig": "Star Warp",
+                "tit": "星星传送门",
+                "u": true
+            },
+            {
+                "i": 38,
+                "orig": "Brick Hole Massacre",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 39,
+                "orig": "Star Warp",
+                "tit": "星星传送门",
+                "u": true
+            },
+            {
+                "i": 40,
+                "orig": "Flying Raccoon Zone",
+                "tit": "飞吧！超级树叶，浣熊的力量",
+                "u": true
+            },
+            {
+                "i": 41,
+                "orig": "Pwnhammer Duece",
+                "tit": "外星洞窟2",
+                "u": true
+            },
+            {
+                "i": 42,
+                "orig": "Super Pipe Action Town",
+                "tit": "超级地下水管迷宫",
+                "u": true
+            },
+            {
+                "i": 43,
+                "orig": "Dungeon of Strange Happenings",
+                "tit": "大城堡3",
+                "u": true
+            },
+            {
+                "i": 44,
+                "orig": "Go Go Goomba",
+                "tit": "Go！Go！栗宝宝！",
+                "u": true
+            },
+            {
+                "i": 45,
+                "orig": "Switch Action Zone",
+                "tit": "P开关时刻",
+                "u": true
+            },
+            {
+                "i": 46,
+                "orig": "The Great Fish Fiasco",
+                "tit": "群鱼乱舞",
+                "u": true
+            },
+            {
+                "i": 47,
+                "orig": "Another Bonus Area",
+                "tit": "另一处奖励小屋",
+                "u": true
+            },
+            {
+                "i": 48,
+                "orig": "Retroville",
+                "tit": "8位像素风波",
+                "u": true
+            },
+            {
+                "i": 49,
+                "orig": "Warp to Dino Island",
+                "tit": "传送水管：恐龙岛",
+                "u": true
+            },
+            {
+                "i": 50,
+                "orig": "Warp to Wet Water Zone",
+                "tit": "传送水管：水上世界",
+                "u": true
+            },
+            {
+                "i": 51,
+                "orig": "A Short Level",
+                "tit": "一个简短的关卡",
+                "u": true
+            },
+            {
+                "i": 52,
+                "orig": "Secret Squirrel Area",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 53,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "传送水管：寒冰之境",
+                "u": true
+            },
+            {
+                "i": 54,
+                "orig": "Dungeon of Agony",
+                "tit": "大城堡2",
+                "u": true
+            },
+            {
+                "i": 55,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "传送水管：诺库诺库王国",
+                "u": true
+            },
+            {
+                "i": 56,
+                "orig": "Pwnhammer",
+                "tit": "外星洞窟1",
+                "u": true
+            },
+            {
+                "i": 57,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "传送水管：诺库诺库王国",
+                "u": true
+            },
+            {
+                "i": 58,
+                "orig": "Underground Battle Arena",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 59,
+                "orig": "Warp to Wet Water Zone",
+                "tit": "传送水管：水上世界",
+                "u": true
+            },
+            {
+                "i": 60,
+                "orig": "The Treasure House",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 61,
+                "orig": "Warp to The Hurtful Hotlands",
+                "tit": "传送水管：炎炎沙漠",
+                "u": true
+            },
+            {
+                "i": 62,
+                "orig": "Panic Zone",
+                "tit": "赶时间的地方",
+                "u": true
+            },
+            {
+                "i": 63,
+                "orig": "Star Warp",
+                "tit": "星星传送门",
+                "u": true
+            },
+            {
+                "i": 64,
+                "orig": "Pyramid Action Machine",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 65,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "传送水管：诺库诺库王国",
+                "u": true
+            },
+            {
+                "i": 66,
+                "orig": "Pyramid of Fail",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 67,
+                "orig": "The Hot Boot",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 68,
+                "orig": "Lakitu War Zone",
+                "tit": "球盖姆竞技场",
+                "u": true
+            },
+            {
+                "i": 69,
+                "orig": "Desert Maze",
+                "tit": "沙漠迷宫",
+                "u": true
+            },
+            {
+                "i": 70,
+                "orig": "Star Warp",
+                "tit": "星星传送门",
+                "u": true
+            },
+            {
+                "i": 71,
+                "orig": "The Rawest Forest",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 72,
+                "orig": "The Invasion 2",
+                "tit": "第二次飞船入侵",
+                "u": true
+            },
+            {
+                "i": 73,
+                "orig": "Warp to The Rawest Forest",
+                "tit": "传送水管：神秘森林",
+                "u": true
+            },
+            {
+                "i": 74,
+                "orig": "Sandy Ghosty Hammer Town",
+                "tit": "幽灵沙漠",
+                "u": true
+            },
+            {
+                "i": 75,
+                "orig": "Shell Heaven",
+                "tit": "",
+                "u": true
+            },
+            {
+                "i": 76,
+                "orig": "Dungeon of Inappropriate Phrases",
+                "tit": "大城堡4",
+                "u": true
+            },
+            {
+                "i": 77,
+                "orig": "Warp to The Hurtful Hotlands",
+                "tit": "传送水管：炎炎沙漠",
+                "u": true
+            },
+            {
+                "i": 78,
+                "orig": "Warp to The Lava Hole",
+                "tit": "传送水管：黑暗领域",
+                "u": true
+            },
+            {
+                "i": 79,
+                "orig": "The Invasion 3",
+                "tit": "第三次飞船入侵",
+                "u": true
+            },
+            {
+                "i": 80,
+                "orig": "Token Water Level",
+                "tit": "水下宝藏关",
+                "u": true
+            },
+            {
+                "i": 81,
+                "orig": "Oldschool Plumbers",
+                "tit": "初代水下世界 水管迷宫",
+                "u": true
+            },
+            {
+                "i": 82,
+                "orig": "The Water is Not a Lie",
+                "tit": "这不是虚幻的水元素",
+                "u": true
+            },
+            {
+                "i": 83,
+                "orig": "Bubbles in the Sky",
+                "tit": "天空中漂浮的泡泡",
+                "u": true
+            },
+            {
+                "i": 84,
+                "orig": "Warp to the Rawest Forest",
+                "tit": "传送水管：神秘森林",
+                "u": true
+            },
+            {
+                "i": 85,
+                "orig": "Star Warp",
+                "tit": "星星传送点",
+                "u": true
+            },
+            {
+                "i": 86,
+                "orig": "The Invasion 4",
+                "tit": "第四次飞船入侵",
+                "u": true
+            },
+            {
+                "i": 87,
+                "orig": "Easymode Tanks",
+                "tit": "坦克关卡 简单模式",
+                "u": true
+            },
+            {
+                "i": 88,
+                "orig": "Hardmode Tanks",
+                "tit": "坦克关卡 困难模式",
+                "u": true
+            },
+            {
+                "i": 89,
+                "orig": "The King of Koopas",
+                "tit": "酷霸王的城堡",
+                "u": true
+            },
+            {
+                "i": 90,
+                "orig": "Dire Dire Rocks",
+                "tit": "宽广的水下山脉",
+                "u": true
+            }
+        ],
+        "title": "蘑菇王国的入侵 第二季",
+        "title-orig": "The Invasion 2"
+    }
+}

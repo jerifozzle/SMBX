@@ -1,0 +1,1008 @@
+{
+    " episode_title": "Вторжение 2",
+    " episode_world": "world.wldx",
+    "bonus1.lvlx": {
+        "events": [
+            {
+                "i": 3,
+                "msg": "#if player(3)\nЭй, а ну прочь с моего газона! Мне плевать, что ты принцесса, убирайся отсюда!\n#else\nРебята, а ну прочь с моего газона!\n#endif",
+                "orig": "#if player(3)\nHey, you! Get off my lawn!\nI don't care if you're a princess, just, get out!\n#else\nYou boys better get off my lawn!\n#endif"
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "orig": "Stay outta my house.  The door's locked and I don't even want you thinkin' about going down my chimney.",
+                "talk": "Отойди прочь от моего дома! Дверь заперта! Даже не смей думать лезть через дымоход!"
+            },
+            {
+                "i": 6,
+                "orig": "I can't believe you broke into my house.  You better not have hurt Hugo!",
+                "talk": "#if player(3)\nНе могу поверить, ты вло-\nмилась в мой дом, какая же ты наглая! Лучше бы ты не обижала моего Хьюго!\n#else\nНе могу поверить, ты вло-\nмился в мой дом! Лучше бы ты не обижал моего Хьюго!\n#endif",
+                "talk-n": "Kurwa"
+            }
+        ]
+    },
+    "bonus2.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "Take anything you want!",
+                "talk": "Бери всё, что хочешь!"
+            }
+        ]
+    },
+    "bonus3.lvlx": {
+        "events": [
+            {
+                "i": 9,
+                "msg": "Ты можешь взять мои сокровища!",
+                "orig": "You can have my treasure!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 3,
+                "orig": "Welcome!  Please take anything that can help you on your journey.",
+                "talk": "Добро пожаловать! Бери всё, что тебе может помочь в твоём приключении."
+            }
+        ]
+    },
+    "bonus4.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "The pink Yoshi spits out veggies after swallowing it's enemies.  The purple Yoshi can do a ground pound by pressing Alt-Run.",
+                "talk": "Розовый Йоши плюётся овощами после заглатывания врагов. Фиолетовый Йоши может встрясти землю, если подпрыгнуть и сразу нажать АЛЬТ-БЕГ."
+            }
+        ]
+    },
+    "bonus5.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "This item has the power to stop time!",
+                "talk": "Эта штуковина может оста-\nновить время!"
+            },
+            {
+                "i": 2,
+                "orig": "This is our vault.  Please take anything that could be of use.",
+                "talk": "Это наше хранилище. Бери от сюда всё, что нужно, на здоровье!"
+            },
+            {
+                "i": 8,
+                "orig": "Lakitu's Shoe is very special. It gives the wearer the power of flight!",
+                "talk": "Сапог Лакиту особенный:\nС ним ты сможешь летать!"
+            },
+            {
+                "i": 11,
+                "orig": "This egg contains a very rare Yoshi, please treat him well.",
+                "talk": "В этом яйце очень редкий Йоши. Позаботься о нём хорошо!"
+            },
+            {
+                "i": 12,
+                "orig": "We are Lumas, guardians of the Star Palace.",
+                "talk": "Мы Люмы, стражи Звёздного Дворца."
+            },
+            {
+                "i": 13,
+                "orig": "The girl in the blue dress is Rosalina!",
+                "talk": "Эта девушка в голубом платье - Розалина!"
+            },
+            {
+                "i": 14,
+                "orig": "This is the Star Palace.",
+                "talk": "Это Звёздный Дворец."
+            },
+            {
+                "i": 15,
+                "orig": "Welcome to the Star Palace!  There are special treasures waiting for you if you can collect enough stars.",
+                "talk": "     Добро пожаловать в\n      Звёздный Дворец!\n\nЗдесь хранятся особые со-\nкровища. Они ждут момента,\nкогда же ты, наконец, со-\nберёшь нужное число звёзд."
+            }
+        ]
+    },
+    "dungeon1.lvlx": {
+        "events": [
+            {
+                "i": 12,
+                "msg": "Некоторых врагов можно подобрать, если нажать БЕГ, зажимая ВНИЗ и стоя у них на голове.",
+                "orig": "Some enemies can be picked up if you hold down and press run while standing on them."
+            }
+        ]
+    },
+    "dungeon4.lvlx": {
+        "npc": [
+            {
+                "i": 63,
+                "orig": "What took you so long?  Let's go.",
+                "talk": "Чего так долго?\nДавай, пошли дальше!"
+            }
+        ]
+    },
+    "level0.lvlx": {
+        "events": [
+            {
+                "i": 5,
+                "msg": "Не смотри на меня так... Происхоит нечто ужасное!",
+                "orig": "Don't look at me like that...  Something bad is happening!"
+            },
+            {
+                "i": 6,
+                "msg": "Боузер объединился со зло-\nдеями из других измерений\nи вторгся в Грибное Коро-\nлевство.",
+                "orig": "Bowser has joined forces with villians from other realities and is invading The Mushroom Kingdom."
+            },
+            {
+                "i": 7,
+                "msg": "Пожалуйста, сорви его планы! Также, как ты это всегда делаешь.",
+                "orig": "Please go foil Bowser's plans like you always do."
+            }
+        ],
+        "npc": [
+            {
+                "i": 0,
+                "orig": "Please be careful, the road ahead is dangerous.",
+                "talk": "#if player(3)\nБудь осторожна,\n#else\nБудь осторожен,\n#endif\nна пути много опасностей!"
+            },
+            {
+                "i": 2,
+                "orig": "They wouldn't let me in, but I had to talk to you.",
+                "talk": "Меня не пускали... Но нам срочно нужно поговорить!"
+            },
+            {
+                "i": 3,
+                "orig": "A princess should not be making house calls to a plumber!",
+                "talk": "Принцессе не позволительно лично ходить к сантехникам в гости!"
+            },
+            {
+                "i": 4,
+                "orig": "Oh no, where did the Princess go?",
+                "talk": "О нет, куда же сбежала Принцесса?"
+            }
+        ]
+    },
+    "level1.lvlx": {
+        "events": [
+            {
+                "i": 10,
+                "msg": "Всё что нужно сделать - это открыть меню Паузы и нажимать ВЛЕВО или ВПРАВО.",
+                "orig": "All you have to do is pause the game and press left or right."
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "orig": "Did you know that you can change your character at the world map screen?",
+                "talk": "А ты знаешь, что можно по-\nменять персонажа, находясь на карте мира?"
+            },
+            {
+                "i": 48,
+                "orig": "#if player(3)\nDid you like my gift?\n#else\nI hope that was helpful.\n#endif",
+                "talk": "#if player(3)\nПонравился ли Вам мой по-\nдарок?\n#else\nНадеюсь, тебе эта штука пригодилось.\n#endif"
+            },
+            {
+                "i": 49,
+                "orig": "#if player(3)\nOh, Your Highness! It's such an honor to see you, Princess! I have a gift for you, let me open the chest...\n#elif player(4)\nHello, bro! What's up? Take the thing from the chest, you'll need it!\n#elif player(5)\nOh, you that hero from a far kingdom that everyone keep talking about? Here, you can have what's in this chest.\n#else\nAren't you that plumber that everyone keeps talking about? Here, you can have what's in this chest.\n#endif",
+                "talk": "#if player(3)\nО, Ваше Высочество! Для меня такая честь повидать Вас! У меня есть для Вас подарок, позвольте открыть сундук...\n#elif player(4)\nЗдарова, брательник! Как поживаешь? Возьми кое-что из сундука, это тебе пригодится!\n#elif player(5)\nО, ты случайно не тот герой из далёкой страны, про которого все рассказывали? Возьми кое-что из этого сундука.\n#else\nТы случайно не тот санте-\nхник, о котором все гово-\nрят? Возьми кое-что из \nэтого сундука.\n#endif"
+            }
+        ]
+    },
+    "level10.lvlx": {
+        "npc": [
+            {
+                "i": 24,
+                "orig": "Help, I can't swim!",
+                "talk": "Спасите, я не умею плавать!"
+            }
+        ]
+    },
+    "level12.lvlx": {
+        "npc": [
+            {
+                "i": 2,
+                "orig": "Where are all those mushrooms coming from?",
+                "talk": "Откуда все эти грибы?"
+            }
+        ]
+    },
+    "level13.lvlx": {
+        "npc": [
+            {
+                "i": 97,
+                "orig": "#if player(3)\nOh no! My eggs! What have you done, Peach! I thought better of you!\n#else\nWhat's wrong with you, why did you smash my eggs?  Get out of here, jerk!\n#endif",
+                "talk": "#if player(3)\nО нет! Мои яйца! Что ты наделала, Пич! Я был о тебе лучшего мнения!\n#else\nЧто с тобой не так? Какого чёрта ты разбил мои яйца? Убирайся, придурок!\n#endif"
+            },
+            {
+                "i": 98,
+                "orig": "#if player(3)\nOh, hello Peach! It's such an honor that you came to visit me! Can I ask you to be careful with my eggs?\n#else\nYou look like an honest guy.  I'll let you pass, just be carefull with my eggs.\n#endif",
+                "talk": "#if player(3)\nО, здравствуй, Пич! Это такая честь, что ты меня навестила! Можно попросить тебя быть осторожной с моими яйцами?\n#else\nМне кажется, ты человек честный. Я позволю тебе пройти, Но!, будь крайне осторожен с моими яйцами.\n#endif"
+            }
+        ]
+    },
+    "level15.lvlx": {
+        "npc": [
+            {
+                "i": 13,
+                "orig": "The glowing thing above us is the Billy Gun.  Once you grab it you better hold on tight!",
+                "talk": "Видишь ту сияющую штуку сверху? Это Билли-пушка. Как только подберёшь её, держи крепко!"
+            }
+        ]
+    },
+    "level18.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "I've been waiting in line forever!",
+                "talk": "Я стоял в очереди целую вечность!"
+            },
+            {
+                "i": 3,
+                "orig": "This place looks so fun.  I can't wait to get it!",
+                "talk": "Это место кажется таким\nклассным. Не могу дождать-\nся, когда, наконец, войду\nтуда!"
+            },
+            {
+                "i": 4,
+                "orig": "Hey you! No cutting in line.",
+                "talk": "Эй, ты!\nА ну в конец очереди!"
+            },
+            {
+                "i": 15,
+                "orig": "Let me out!  Let me OUT!",
+                "talk": "Заберите меня от сюда! Заберите меня от сюда!"
+            },
+            {
+                "i": 16,
+                "orig": "He tricked us.  There are monsters everywhere.",
+                "talk": "Он обманул нас. Тут повсю-\nду монстры."
+            }
+        ]
+    },
+    "level19.lvlx": {
+        "npc": [
+            {
+                "i": 23,
+                "orig": "I bet something good will happen if you collect all the Blue Coins!",
+                "talk": "Держу пари, что произойдёт нечто клёвое, если ты соберёшь все синие монетки!"
+            }
+        ]
+    },
+    "level2.lvlx": {
+        "npc": [
+            {
+                "i": 47,
+                "orig": "I wonder what's in that pipe above us?  Maybe I could make it up there if I had a giant shoe or something to jump out of.",
+                "talk": "Интересно, а что в той трубе на потолке? Эх, если бы у меня был гигантский сапог или что-то в этом роде, то я смог бы до туда допрыгнуть..."
+            }
+        ]
+    },
+    "level21.lvlx": {
+        "npc": [
+            {
+                "i": 20,
+                "orig": "Shouldn't this level be in the Ice World?  Whatever...",
+                "talk": "Не должен ли этот уровень быть в ледяном мире? А вообще, мне всё равно..."
+            }
+        ]
+    },
+    "level22.lvlx": {
+        "npc": [
+            {
+                "i": 109,
+                "orig": "I AM ERROR.",
+                "talk": "Я ЭРРОР."
+            }
+        ]
+    },
+    "level23.lvlx": {
+        "npc": [
+            {
+                "i": 228,
+                "orig": "Until reciently, the moles that live here used to be friendly.  Something has happened that is causing them to behave aggressively.  Be careful!",
+                "talk": "До недавних пор, местные кроты были дружелбными. Их что-то свело с ума, они теперь агрессивны. \n#if player(3)\nБудь осторожна!\n#else\nБудь осторожен!\n#endif"
+            }
+        ]
+    },
+    "level25.lvlx": {
+        "npc": [
+            {
+                "i": 96,
+                "orig": "Why is it called Pwnhammer anyway?",
+                "talk": "Кстати, почему этот уро-\nвень назвали \"Мочи-молот\"?"
+            }
+        ]
+    },
+    "level26.lvlx": {
+        "npc": [
+            {
+                "i": 157,
+                "orig": "Those blue plants look suspicious.  If you grab them you better not let go!",
+                "talk": "Эти синие растения ну уж очень подозрительные! Если будешь выдёргивать их -  лучше не выпускай из рук!"
+            }
+        ]
+    },
+    "level27.lvlx": {
+        "events": [
+            {
+                "i": 17,
+                "msg": "Если зажмёшь ВНИЗ и на-\nжмёшь БЕГ, сидя на вон той сияющей синим детали ко-\nрабля, ты вытащишь кое-что интересное.",
+                "orig": "If you hold down and press run on the part of the ship that is glowing blue, you will get a special item!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 7,
+                "orig": "Bowser's airships are invading!",
+                "talk": "Летят корабли Боузера!"
+            },
+            {
+                "i": 13,
+                "orig": "Help!",
+                "talk": "Спасите!"
+            },
+            {
+                "i": 43,
+                "orig": "Hurry up and get on.  They are about to leave without you!",
+                "talk": "Эй, потопорись! Залазь на борт, а то щас улетят без тебя!"
+            }
+        ]
+    },
+    "level28.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "I hope it serves you well.",
+                "talk": "Надеюсь, они тебе хорошо служат."
+            },
+            {
+                "i": 7,
+                "orig": "These are Podoboo's Shoes. They allow their wearers to walk on lava!",
+                "talk": "Это лавовые сапоги. В них можно ходить по лаве!"
+            }
+        ]
+    },
+    "level29.lvlx": {
+        "npc": [
+            {
+                "i": 9,
+                "orig": "Do you have anything to eat?  I have been lost in here for days.",
+                "talk": "Есть что-нибудь поесть? Я тут заблудился, и уже нес-\nколько дней здесь торчу."
+            }
+        ]
+    },
+    "level3.lvlx": {
+        "npc": [
+            {
+                "i": 19,
+                "orig": "I can't believe that pipe goes all the way up here.",
+                "talk": "Чудеса! Эта труба тянется так высоко вверх, аж до облаков!"
+            }
+        ]
+    },
+    "level34.lvlx": {
+        "npc": [
+            {
+                "i": 83,
+                "orig": "The enemy ahead can be tough.  Use the turnips to take him out as soon as possible.",
+                "talk": "В переди суровый враг. Давай, тащи репку и кидай-\nся ею, чтобы сбить его как можно скорее."
+            }
+        ]
+    },
+    "level35.lvlx": {
+        "npc": [
+            {
+                "i": 407,
+                "orig": "It's dangerous to go alone! Take this.",
+                "talk": "Осторожно! В одиночку идти опасно! На, возьми!"
+            }
+        ]
+    },
+    "level38.lvlx": {
+        "npc": [
+            {
+                "i": 182,
+                "orig": "You better move quick, those platforms don't look sturdy.",
+                "talk": "Беги быстрее, эти платфор-\nмы, кажись, очень хлипкие."
+            }
+        ]
+    },
+    "level4.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "This level is red on the world map.  That means there is a secret exit here somewhere.  Can you find it?",
+                "talk": "Обрати внимание, что этот уровень на карте мира обозначен красным. А это значит, что тут где-то спрятан секретный выход. Слабо найти?"
+            }
+        ]
+    },
+    "level41.lvlx": {
+        "npc": [
+            {
+                "i": 54,
+                "orig": "I dropped all my Frog Coins.  If you find them for me I will give you a reward.",
+                "talk": "Блин, я посеял все свои лягушачьи монетки... Если поможешь мне их найти, то я тебя щедро награжу."
+            },
+            {
+                "i": 55,
+                "orig": "You're the best!",
+                "talk": "#if player(3)\nПринцесса Пич самая лучшая!\n#else\nТы лучший!\n#endif"
+            },
+            {
+                "i": 56,
+                "orig": "You found all my Frog Coins!  Please take this treasure.",
+                "talk": "#if player(3)\nО, спасибо, Пич! Ты нашла их! Мои лягушачьи монетки!\n\nНа, бери сокровище, оно теперь твоё!\n#else\nО, спасибо! Ты нашёх их! Мои лягушачьи монетки! \n\nНа, бери сокровище, заслужил!\n#endif\n"
+            }
+        ]
+    },
+    "level44.lvlx": {
+        "npc": [
+            {
+                "i": 23,
+                "orig": "You brought me all the Red Coins!  Please take my treasure as a reward.",
+                "talk": "#if player(3)\nО, ты собрала все красные монетки! В награду я тебе отдам моё сокровище, как и обещал.\n#else\nО, ты собрал все красные монетки! В награду я тебе отдам моё сокровище, как и обещал.\n#endif"
+            },
+            {
+                "i": 24,
+                "orig": "I will give you something special if you bring me all the Red Coins.",
+                "talk": "Я тебе дам кое-что особен-\nное, если соберёшь и при-\nнесёшь мне все красные мо-\nнетки, какие тут разброса-\nны."
+            },
+            {
+                "i": 25,
+                "orig": "Thanks again!",
+                "talk": "Ещё раз спасибо!"
+            }
+        ]
+    },
+    "level45.lvlx": {
+        "npc": [
+            {
+                "i": 33,
+                "orig": "Those bubbles look pretty strong.  I wonder if you could actually swim in them?",
+                "talk": "Эти пузыри кажутеся такими крепкими. Интересно, а можно ли в них плавать?"
+            }
+        ]
+    },
+    "level46.lvlx": {
+        "npc": [
+            {
+                "i": 29,
+                "orig": "The Clown Car is weak on the top side.  It will hurt if an enemy touches you there.",
+                "talk": "Осторожно, клоуномобиль уязвим сверху. Тебе будет больно, если враг залетит сверху."
+            },
+            {
+                "i": 30,
+                "orig": "You can stack those cannons on the Clown Car and fire them while driving!",
+                "talk": "На клоуномобиль можно устанавливать орудия и стрелять из них во время полёта!"
+            }
+        ]
+    },
+    "level5.lvlx": {
+        "events": [
+            {
+                "i": 6,
+                "msg": "Панцири можно кидать в разные стороны (даже под-\nбрасывать вверх). Сначала нужно подобрать панцирь, подойдя к нему, зажав БЕГ. Затем, нужно нажать на подходящую стрелку (или их комбинацию) и затем отпус-\nтить БЕГ. Если зажать ВНИЗ и отпустить БЕГ, панцирь можно аккуратно поставить на землю.",
+                "orig": "You can throw a shell in many different ways depending on the direction you are holding the control pad when you let go of the run button."
+            }
+        ],
+        "npc": [
+            {
+                "i": 69,
+                "orig": "You can have anything you find in there.",
+                "talk": "Бери от сюда всё, что найдёшь."
+            },
+            {
+                "i": 70,
+                "orig": "You got rid of all the purple blocks!  As a reward I'll open this door for you.",
+                "talk": "#if player(3)\nО, благодарю! Ты сломала все фиолетовые блоки!\n#else\nО, благодарю! Ты сломал все фиолетовые блоки!\n#endif\n\nВ награду, я сейчас открою тебе эту дверь..."
+            },
+            {
+                "i": 71,
+                "orig": "I've been ordered to get rid of all the purple blocks.  I'm going to be here all night.",
+                "talk": "Мне было приказано изба-\nвиться от всех этих фио-\nлетовых блоков. Эх, с та-\nкими темпами я тут протор-\nчу всю ночь..."
+            }
+        ]
+    },
+    "level6.lvlx": {
+        "events": [
+            {
+                "i": 3,
+                "msg": "Чтобы подобрать врага, встань на него сверху, зажми ВНИЗ, и затем нажми БЕГ.",
+                "orig": "Hold DOWN and press the RUN button to grab enemies while standing on them."
+            }
+        ]
+    },
+    "level7.lvlx": {
+        "npc": [
+            {
+                "i": 148,
+                "orig": "If we are underground, why can I still see the sky?",
+                "talk": "Если мы под землёй, то...\nкакого художника я всё ещё вижу небо?"
+            }
+        ]
+    },
+    "level8.lvlx": {
+        "npc": [
+            {
+                "i": 298,
+                "orig": "You can't take this through the pipe.  Try hitting it now and see if anything happens on the other side.",
+                "talk": "Эту штуку ты не смошешь от сюда унести. Но, попробуй её активаровать здесь и сейчас, а затем глянь, что же произойдёт снаружи..."
+            },
+            {
+                "i": 300,
+                "orig": "I wonder what's on the other side of this wall?  I bet if I had a hammer I could smash through it.",
+                "talk": "Интересно, а что за этой стеной? Была бы кувалда, я бы разбил эту стену ко всем чертям."
+            }
+        ]
+    },
+    "level9.lvlx": {
+        "npc": [
+            {
+                "i": 12,
+                "orig": "My rocket was hit by one of those bombs.  Now I'm stuck here.",
+                "talk": "Из-за тех бомб моя ракета сломана. Теперь я застрял здесь, возможно надолго..."
+            }
+        ]
+    },
+    "world.wldx": {
+        "credits": "Redigit\n\nПеревод на русский:\nWohlstand",
+        "credits-n": "Redigit\n\nПеревод на русский:\nWohlstand",
+        "credits-orig": "Redigit\n",
+        "levels": [
+            {
+                "i": 0,
+                "orig": "Megaton Vase Hole",
+                "tit": "Дыра мегатонной вазы"
+            },
+            {
+                "i": 1,
+                "orig": "Warp to Subcon Underground",
+                "tit": "Путь в поздемелье Сабкон"
+            },
+            {
+                "i": 2,
+                "orig": "Grassy Grass Grasslands",
+                "tit": "Траво-травянистые земли"
+            },
+            {
+                "i": 3,
+                "orig": "The Lost Woods",
+                "tit": "Потерянные леса"
+            },
+            {
+                "i": 4,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Путь в морозно-морозные земли"
+            },
+            {
+                "i": 5,
+                "orig": "Dungeon of Pain",
+                "tit": "Темница боли"
+            },
+            {
+                "i": 6,
+                "orig": "Misplaced Pipehammer Maze",
+                "tit": "Неуместный трубный лабиринт"
+            },
+            {
+                "i": 7,
+                "orig": "The Mole Hole",
+                "tit": "Кротовая дыра"
+            },
+            {
+                "i": 8,
+                "orig": "Subcon Nightmare Land",
+                "tit": "Страна кошмаров Сабкон"
+            },
+            {
+                "i": 9,
+                "orig": "Super Easy Road",
+                "tit": "Супер-лёгкая тропа"
+            },
+            {
+                "i": 10,
+                "orig": "Warp to Subcon Underground",
+                "tit": "Путь в поздемелье Сабкон"
+            },
+            {
+                "i": 11,
+                "orig": "Warp to Mushroom Plains",
+                "tit": "Путь к грибным равнинам"
+            },
+            {
+                "i": 12,
+                "orig": "White Savage Zone",
+                "tit": "Зона белых дикарей"
+            },
+            {
+                "i": 13,
+                "orig": "Warp to the Subcon Underground",
+                "tit": "Путь в поздемелье Сабкон"
+            },
+            {
+                "i": 14,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Путь в морозно-морозные земли"
+            },
+            {
+                "i": 15,
+                "orig": "Warp to Subcon Underground",
+                "tit": "Путь в поздемелье Сабкон"
+            },
+            {
+                "i": 16,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Путь в морозно-морозные земли"
+            },
+            {
+                "i": 17,
+                "orig": "Warp to the Mushroom Plains",
+                "tit": "Путь к грибным равнинам"
+            },
+            {
+                "i": 18,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Путь в королевство Купы"
+            },
+            {
+                "i": 19,
+                "orig": "Floating Brick Niche",
+                "tit": "Ниша плывущих кирпичей"
+            },
+            {
+                "i": 20,
+                "orig": "Frigid Awesome Land",
+                "tit": "Хладная и потрясная земля"
+            },
+            {
+                "i": 21,
+                "orig": "DO NOT ENTER",
+                "tit": "НЕ ВХОДИТЬ"
+            },
+            {
+                "i": 22,
+                "orig": "Warp to Dino Island",
+                "tit": "Переход на Дино-остров"
+            },
+            {
+                "i": 23,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Путь в морозно-морозные земли"
+            },
+            {
+                "i": 24,
+                "orig": "The Invasion",
+                "tit": "Вторжение"
+            },
+            {
+                "i": 25,
+                "orig": "Painful Playland",
+                "tit": "Мучительная игровая площадка"
+            },
+            {
+                "i": 26,
+                "orig": "Warp to the Mushroom Plains",
+                "tit": "Путь к грибным равнинам"
+            },
+            {
+                "i": 27,
+                "orig": "The Bros. Pad",
+                "tit": "Дом братьев"
+            },
+            {
+                "i": 28,
+                "orig": "Get Off My Lawn",
+                "tit": "Прочь с моего газона!"
+            },
+            {
+                "i": 29,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Путь в морозно-морозные земли"
+            },
+            {
+                "i": 30,
+                "orig": "Field of Shotgun Vases",
+                "tit": "Поле стреляющих ваз"
+            },
+            {
+                "i": 31,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 32,
+                "orig": "Random Water Level",
+                "tit": "Какой-то водный уровень"
+            },
+            {
+                "i": 33,
+                "orig": "The Suck",
+                "tit": "Полный отстой"
+            },
+            {
+                "i": 34,
+                "orig": "Super Nostalgia World",
+                "tit": "Мир супер-ностальгии"
+            },
+            {
+                "i": 35,
+                "orig": "Jumpy Hoppy Turtle Zone",
+                "tit": "Зона нервно-прыгучих черепах"
+            },
+            {
+                "i": 36,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 37,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 38,
+                "orig": "Brick Hole Massacre",
+                "tit": "Резня в кирпичной дыре"
+            },
+            {
+                "i": 39,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 40,
+                "orig": "Flying Raccoon Zone",
+                "tit": "Зона летающих енотов"
+            },
+            {
+                "i": 41,
+                "orig": "Pwnhammer Duece",
+                "tit": "Мочи-молот, Часть II"
+            },
+            {
+                "i": 42,
+                "orig": "Super Pipe Action Town",
+                "tit": "Супер-трубный городок"
+            },
+            {
+                "i": 43,
+                "orig": "Dungeon of Strange Happenings",
+                "tit": "Темница странных вещей"
+            },
+            {
+                "i": 44,
+                "orig": "Go Go Goomba",
+                "tit": "Вперёд, Гумба!"
+            },
+            {
+                "i": 45,
+                "orig": "Switch Action Zone",
+                "tit": "Зона переключателей"
+            },
+            {
+                "i": 46,
+                "orig": "The Great Fish Fiasco",
+                "tit": "Великое рыбное фиаско"
+            },
+            {
+                "i": 47,
+                "orig": "Another Bonus Area",
+                "tit": "Ещё одна бонусная зона"
+            },
+            {
+                "i": 48,
+                "orig": "Retroville",
+                "tit": "Ретровиль"
+            },
+            {
+                "i": 49,
+                "orig": "Warp to Dino Island",
+                "tit": "Переход на Дино-остров"
+            },
+            {
+                "i": 50,
+                "orig": "Warp to Wet Water Zone",
+                "tit": "Путь в зону мокрой воды"
+            },
+            {
+                "i": 51,
+                "orig": "A Short Level",
+                "tit": "Короткий уровень"
+            },
+            {
+                "i": 52,
+                "orig": "Secret Squirrel Area",
+                "tit": "Секретный беличий дом"
+            },
+            {
+                "i": 53,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Путь в морозно-морозные земли"
+            },
+            {
+                "i": 54,
+                "orig": "Dungeon of Agony",
+                "tit": "Темница агонии"
+            },
+            {
+                "i": 55,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Путь в королевство Купы"
+            },
+            {
+                "i": 56,
+                "orig": "Pwnhammer",
+                "tit": "Мочи-молот"
+            },
+            {
+                "i": 57,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Путь в королевство Купы"
+            },
+            {
+                "i": 58,
+                "orig": "Underground Battle Arena",
+                "tit": "Подземная боевая арена"
+            },
+            {
+                "i": 59,
+                "orig": "Warp to Wet Water Zone",
+                "tit": "Путь в зону мокрой воды"
+            },
+            {
+                "i": 60,
+                "orig": "The Treasure House",
+                "tit": "Дом сокровищ"
+            },
+            {
+                "i": 61,
+                "orig": "Warp to The Hurtful Hotlands",
+                "tit": "Путь в горячие и опасные земли"
+            },
+            {
+                "i": 62,
+                "orig": "Panic Zone",
+                "tit": "Зона паники"
+            },
+            {
+                "i": 63,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 64,
+                "orig": "Pyramid Action Machine",
+                "tit": "Пирамидная двиг-машина"
+            },
+            {
+                "i": 65,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Путь в королевство Купы"
+            },
+            {
+                "i": 66,
+                "orig": "Pyramid of Fail",
+                "tit": "Пирамида Поражения"
+            },
+            {
+                "i": 67,
+                "orig": "The Hot Boot",
+                "tit": "Горячий сапог"
+            },
+            {
+                "i": 68,
+                "orig": "Lakitu War Zone",
+                "tit": "Поле битвы Лакиту"
+            },
+            {
+                "i": 69,
+                "orig": "Desert Maze",
+                "tit": "Пустынный лабиринт"
+            },
+            {
+                "i": 70,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 71,
+                "orig": "The Rawest Forest",
+                "tit": "Свежайший лес"
+            },
+            {
+                "i": 72,
+                "orig": "The Invasion 2",
+                "tit": "Вторжение 2"
+            },
+            {
+                "i": 73,
+                "orig": "Warp to The Rawest Forest",
+                "tit": "Путь в свежайший лес"
+            },
+            {
+                "i": 74,
+                "orig": "Sandy Ghosty Hammer Town",
+                "tit": "Песчано-призрачный город молотов"
+            },
+            {
+                "i": 75,
+                "orig": "Shell Heaven",
+                "tit": "Рай панцирей"
+            },
+            {
+                "i": 76,
+                "orig": "Dungeon of Inappropriate Phrases",
+                "tit": "Темница неуместных фраз"
+            },
+            {
+                "i": 77,
+                "orig": "Warp to The Hurtful Hotlands",
+                "tit": "Путь в горячие и опасные земли"
+            },
+            {
+                "i": 78,
+                "orig": "Warp to The Lava Hole",
+                "tit": "Путь в лавовую дыру"
+            },
+            {
+                "i": 79,
+                "orig": "The Invasion 3",
+                "tit": "Вторжение 3"
+            },
+            {
+                "i": 80,
+                "orig": "Token Water Level",
+                "tit": "Условный водный уровень"
+            },
+            {
+                "i": 81,
+                "orig": "Oldschool Plumbers",
+                "tit": "Старые добрые сантехники"
+            },
+            {
+                "i": 82,
+                "orig": "The Water is Not a Lie",
+                "tit": "Вода - это не ложь"
+            },
+            {
+                "i": 83,
+                "orig": "Bubbles in the Sky",
+                "tit": "Пузыри на небе"
+            },
+            {
+                "i": 84,
+                "orig": "Warp to the Rawest Forest",
+                "tit": "Путь в свежайший лес"
+            },
+            {
+                "i": 85,
+                "orig": "Star Warp",
+                "tit": "Звёздный путь"
+            },
+            {
+                "i": 86,
+                "orig": "The Invasion 4",
+                "tit": "Вторжение 4"
+            },
+            {
+                "i": 87,
+                "orig": "Easymode Tanks",
+                "tit": "Танки лёгкой сложности"
+            },
+            {
+                "i": 88,
+                "orig": "Hardmode Tanks",
+                "tit": "Танки повышенной сложности"
+            },
+            {
+                "i": 89,
+                "orig": "The King of Koopas",
+                "tit": "Король Куп"
+            },
+            {
+                "i": 90,
+                "orig": "Dire Dire Rocks",
+                "tit": "Ужасные, ужасные камни"
+            }
+        ],
+        "title": "Вторжение 2",
+        "title-orig": "The Invasion 2"
+    }
+}
