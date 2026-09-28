@@ -1,0 +1,1007 @@
+{
+    " episode_title": "Die Invasion 2",
+    " episode_world": "world.wldx",
+    "bonus1.lvlx": {
+        "events": [
+            {
+                "i": 3,
+                "msg": "#if player(3)\nHallo du! Geh von meinem Rasen! Es ist mir egal, ob du eine Prinzessin bist, geh weg!\n#else\nIhr Jungs steigt besser aus meinem Rasen!\n#endif",
+                "orig": "#if player(3)\nHey, you! Get off my lawn!\nI don't care if you're a princess, just, get out!\n#else\nYou boys better get off my lawn!\n#endif"
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "orig": "Stay outta my house.  The door's locked and I don't even want you thinkin' about going down my chimney.",
+                "talk": "Bleib aus meinem Haus.  Die Tür ist verschlossen und ich möchte nicht einmal, dass Sie darüber nachdenken, meinen Schornstein einzusteigen."
+            },
+            {
+                "i": 6,
+                "orig": "I can't believe you broke into my house.  You better not have hurt Hugo!",
+                "talk": "Ich kann nicht glauben, dass du in meinem Haus eingebrochen bist. Du hast Hugo besser nicht verletzt!"
+            }
+        ]
+    },
+    "bonus2.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "Take anything you want!",
+                "talk": "Nimm alles, was du willst!"
+            }
+        ]
+    },
+    "bonus3.lvlx": {
+        "events": [
+            {
+                "i": 9,
+                "msg": "Du kannst meinen Schatz haben!",
+                "orig": "You can have my treasure!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 3,
+                "orig": "Welcome!  Please take anything that can help you on your journey.",
+                "talk": "Willkommen!  Bitte nehmen Sie alles, was Ihnen auf Ihrer Reise helfen können."
+            }
+        ]
+    },
+    "bonus4.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "The pink Yoshi spits out veggies after swallowing it's enemies.  The purple Yoshi can do a ground pound by pressing Alt-Run.",
+                "talk": "Der rosa Yoshi spuckt Gemüse aus, nachdem er seine Feinde geschluckt hat. Der lila Yoshi kann durch Drücken von Alt-Rennen eine Stampfattacke ausführen."
+            }
+        ]
+    },
+    "bonus5.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "This item has the power to stop time!",
+                "talk": "Dieser Gegenstand hat die Möglichkeit, die Zeit zu stoppen!"
+            },
+            {
+                "i": 2,
+                "orig": "This is our vault.  Please take anything that could be of use.",
+                "talk": "Dies ist unser Tresorraum. Bitte nehmen Sie alles, was von Nutzen sein könnte."
+            },
+            {
+                "i": 8,
+                "orig": "Lakitu's Shoe is very special. It gives the wearer the power of flight!",
+                "talk": "Lakitus Schuh ist etwas ganz Besonderes. Es gibt dem Träger die Kraft des Fluges!"
+            },
+            {
+                "i": 11,
+                "orig": "This egg contains a very rare Yoshi, please treat him well.",
+                "talk": "Dieses Ei enthält einen sehr seltenen Yoshi. Bitte behandeln Sie ihn gut."
+            },
+            {
+                "i": 12,
+                "orig": "We are Lumas, guardians of the Star Palace.",
+                "talk": "Wir sind Lumas, Wächter des Sternenpalast."
+            },
+            {
+                "i": 13,
+                "orig": "The girl in the blue dress is Rosalina!",
+                "talk": "Das Mädchen im blauen Kleid ist Rosalina!"
+            },
+            {
+                "i": 14,
+                "orig": "This is the Star Palace.",
+                "talk": "Dies ist der Sternenpalast."
+            },
+            {
+                "i": 15,
+                "orig": "Welcome to the Star Palace!  There are special treasures waiting for you if you can collect enough stars.",
+                "talk": "Willkommen im Sternenpalast! Es gibt spezielle Schätze, die auf Sie warten, wenn Sie genügend Sterne aufsammeln."
+            }
+        ]
+    },
+    "dungeon1.lvlx": {
+        "events": [
+            {
+                "i": 12,
+                "msg": "Einige Feinde können Sie mitnehmen, wenn Sie auf die Feinde draufstehst, den Knopf nach Unten hältst und dann den Lauf Knopf drückst.",
+                "orig": "Some enemies can be picked up if you hold down and press run while standing on them."
+            }
+        ]
+    },
+    "dungeon4.lvlx": {
+        "npc": [
+            {
+                "i": 63,
+                "orig": "What took you so long?  Let's go.",
+                "talk": "Was hat dich so lange gebraucht? Lass uns gehen."
+            }
+        ]
+    },
+    "level0.lvlx": {
+        "events": [
+            {
+                "i": 5,
+                "msg": "Schau mich nicht so an... etwas Schlimmes passiert!",
+                "orig": "Don't look at me like that...  Something bad is happening!"
+            },
+            {
+                "i": 6,
+                "msg": "Bowser hat sich mit Bösewichten aus anderen Realitäten zusammengetan und dringt in das Pilz-Königreich ein.",
+                "orig": "Bowser has joined forces with villians from other realities and is invading The Mushroom Kingdom."
+            },
+            {
+                "i": 7,
+                "msg": "Bitte schalten Sie die Pläne von Bowser aus wie du es immer tust.",
+                "orig": "Please go foil Bowser's plans like you always do."
+            }
+        ],
+        "npc": [
+            {
+                "i": 0,
+                "orig": "Please be careful, the road ahead is dangerous.",
+                "talk": "Bitte seien Sie vorsichtig, die Straße vor uns ist gefährlich."
+            },
+            {
+                "i": 2,
+                "orig": "They wouldn't let me in, but I had to talk to you.",
+                "talk": "Die würden mich nicht reinlassen, aber ich musste mit dir reden."
+            },
+            {
+                "i": 3,
+                "orig": "A princess should not be making house calls to a plumber!",
+                "talk": "Eine Prinzessin sollte keine Hausanrufe zu einem Klempner machen!"
+            },
+            {
+                "i": 4,
+                "orig": "Oh no, where did the Princess go?",
+                "talk": "Oh nein, wohin ging die Prinzessin?"
+            }
+        ]
+    },
+    "level1.lvlx": {
+        "events": [
+            {
+                "i": 10,
+                "msg": "Alles, was Sie tun müssen ist, das Spiel zu pausieren und nach links oder rechts zu drücken.",
+                "orig": "All you have to do is pause the game and press left or right."
+            }
+        ],
+        "npc": [
+            {
+                "i": 5,
+                "orig": "Did you know that you can change your character at the world map screen?",
+                "talk": "Wussten Sie, dass Sie Ihren Charakter auf der Weltkarte ändern können?"
+            },
+            {
+                "i": 48,
+                "orig": "#if player(3)\nDid you like my gift?\n#else\nI hope that was helpful.\n#endif",
+                "talk": "#if player(3)\nHat dir mein Geschenk gefallen?\n#else\nIch hoffe, das war hilfreich.\n#endif"
+            },
+            {
+                "i": 49,
+                "orig": "#if player(3)\nOh, Your Highness! It's such an honor to see you, Princess! I have a gift for you, let me open the chest...\n#elif player(4)\nHello, bro! What's up? Take the thing from the chest, you'll need it!\n#elif player(5)\nOh, you that hero from a far kingdom that everyone keep talking about? Here, you can have what's in this chest.\n#else\nAren't you that plumber that everyone keeps talking about? Here, you can have what's in this chest.\n#endif",
+                "talk": "#if player(3)\nOh, eure Hoheit! Es ist eine Ehre, dich zu sehen, Prinzessin! Ich habe ein Geschenk für dich, lass mich die Truhe öffnen...\n#elif player(4)\nHallo, Bruder! Was ist los? Nehmen Sie das Ding aus der Truhe, Sie werden es brauchen!\n#elif player(5)\nOh, du bist dieser Held aus einem fernen Königreich, über den alle reden? Hier können Sie das haben, was in dieser Truhe ist.\n#else\nBist du nicht dieser Klempner, der jeder über dich spricht? Hier können Sie das haben, was in dieser Truhe ist.\n#endif"
+            }
+        ]
+    },
+    "level10.lvlx": {
+        "npc": [
+            {
+                "i": 24,
+                "orig": "Help, I can't swim!",
+                "talk": "Hilfe, ich kann nicht schwimmen!"
+            }
+        ]
+    },
+    "level12.lvlx": {
+        "npc": [
+            {
+                "i": 2,
+                "orig": "Where are all those mushrooms coming from?",
+                "talk": "Woher kommen all diese Pilze?"
+            }
+        ]
+    },
+    "level13.lvlx": {
+        "npc": [
+            {
+                "i": 97,
+                "orig": "#if player(3)\nOh no! My eggs! What have you done, Peach! I thought better of you!\n#else\nWhat's wrong with you, why did you smash my eggs?  Get out of here, jerk!\n#endif",
+                "talk": "#if player(3)\nOh nein! Meine Eiern! Was hast du getan, Peach! Ich dachte besser an dich!\n#else\nWas ist los mit dir, warum hast du meine Eiern zerschlagen?  Raus mit dir, Idiot!\n#endif"
+            },
+            {
+                "i": 98,
+                "orig": "#if player(3)\nOh, hello Peach! It's such an honor that you came to visit me! Can I ask you to be careful with my eggs?\n#else\nYou look like an honest guy.  I'll let you pass, just be carefull with my eggs.\n#endif",
+                "talk": "#if player(3)\nOh, hallo Peach! Es ist eine Ehre, dass Sie mich besuchen! Kann ich dich bitten, mit meinen Eiern vorsichtig zu sein?\n#else\nDu siehst aus wie ein ehrlicher Kerl. Ich werde dich passieren lassen, einfach mit meinen Eiern vorsichtig sein.\n#endif"
+            }
+        ]
+    },
+    "level15.lvlx": {
+        "npc": [
+            {
+                "i": 13,
+                "orig": "The glowing thing above us is the Billy Gun.  Once you grab it you better hold on tight!",
+                "talk": "Das leuchtende Ding über uns ist ein Billy Pistole. Sobald du es nimmst, besser daran festhalten!"
+            }
+        ]
+    },
+    "level18.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "I've been waiting in line forever!",
+                "talk": "Ich habe für immer in der Schlange gewartet!"
+            },
+            {
+                "i": 3,
+                "orig": "This place looks so fun.  I can't wait to get it!",
+                "talk": "Dieser Ort sieht so lustig aus. Ich kann es kaum erwarten, es zu betreten!"
+            },
+            {
+                "i": 4,
+                "orig": "Hey you! No cutting in line.",
+                "talk": "Hey du! Kein Schneiden in der Schlange."
+            },
+            {
+                "i": 15,
+                "orig": "Let me out!  Let me OUT!",
+                "talk": "Lass mich raus! Lass mich RAUS!"
+            },
+            {
+                "i": 16,
+                "orig": "He tricked us.  There are monsters everywhere.",
+                "talk": "Er hat uns betrogen. Es sind Monstern überall."
+            }
+        ]
+    },
+    "level19.lvlx": {
+        "npc": [
+            {
+                "i": 23,
+                "orig": "I bet something good will happen if you collect all the Blue Coins!",
+                "talk": "Ich wette, etwas Gutes wird passieren, wenn Sie alle blauen Münzen sammeln!"
+            }
+        ]
+    },
+    "level2.lvlx": {
+        "npc": [
+            {
+                "i": 47,
+                "orig": "I wonder what's in that pipe above us?  Maybe I could make it up there if I had a giant shoe or something to jump out of.",
+                "talk": "Ich frage mich, was in dieser Röhre über uns ist? Vielleicht könnte ich es dort hinspringen, wenn ich einen riesigen Schuh oder etwas hätte."
+            }
+        ]
+    },
+    "level21.lvlx": {
+        "npc": [
+            {
+                "i": 20,
+                "orig": "Shouldn't this level be in the Ice World?  Whatever...",
+                "talk": "Sollte dieses Niveau nicht in der Eiswelt sein? Egal..."
+            }
+        ]
+    },
+    "level22.lvlx": {
+        "npc": [
+            {
+                "i": 109,
+                "orig": "I AM ERROR.",
+                "talk": "ICH BIN FEHLER."
+            }
+        ]
+    },
+    "level23.lvlx": {
+        "npc": [
+            {
+                "i": 228,
+                "orig": "Until reciently, the moles that live here used to be friendly.  Something has happened that is causing them to behave aggressively.  Be careful!",
+                "talk": "In letzter Zeit waren die Maulwürfe die hier leben, freundlich, aber es ist etwas passiert das dazu führt, dass sie aggressiv verhalten.  Seien Sie vorsichtig!"
+            }
+        ]
+    },
+    "level25.lvlx": {
+        "npc": [
+            {
+                "i": 96,
+                "orig": "Why is it called Pwnhammer anyway?",
+                "talk": "Warum heißt es überhaupt Pwnhammer?"
+            }
+        ]
+    },
+    "level26.lvlx": {
+        "npc": [
+            {
+                "i": 157,
+                "orig": "Those blue plants look suspicious.  If you grab them you better not let go!",
+                "talk": "Diese blauen Pflanzen sehen verdächtig aus. Wenn Sie eine davon nehmen, besser nicht loslassen!"
+            }
+        ]
+    },
+    "level27.lvlx": {
+        "events": [
+            {
+                "i": 17,
+                "msg": "Wenn du den Unten Knopf und dann den Lauf Knopf auf das blaue Schiffteile stehst, bekommst du ein spezielles Gegenstand!",
+                "orig": "If you hold down and press run on the part of the ship that is glowing blue, you will get a special item!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 7,
+                "orig": "Bowser's airships are invading!",
+                "talk": "Die Luftschiffe von Bowser erdringen uns!"
+            },
+            {
+                "i": 13,
+                "orig": "Help!",
+                "talk": "Hilfe!"
+            },
+            {
+                "i": 43,
+                "orig": "Hurry up and get on.  They are about to leave without you!",
+                "talk": "Beeilen Sie sich und steig auf. Die sind fast dabei, ohne dich zu gehen!"
+            }
+        ]
+    },
+    "level28.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "I hope it serves you well.",
+                "talk": "Ich hoffe es dient dir gut."
+            },
+            {
+                "i": 7,
+                "orig": "These are Podoboo's Shoes. They allow their wearers to walk on lava!",
+                "talk": "Dies sind Podoboos Schuhen. Die lassen ihre Trägern auf Lava laufen!"
+            }
+        ]
+    },
+    "level29.lvlx": {
+        "npc": [
+            {
+                "i": 9,
+                "orig": "Do you have anything to eat?  I have been lost in here for days.",
+                "talk": "Hast du etwas zu essen? Ich bin seit Tagen hier verloren."
+            }
+        ]
+    },
+    "level3.lvlx": {
+        "npc": [
+            {
+                "i": 19,
+                "orig": "I can't believe that pipe goes all the way up here.",
+                "talk": "Ich kann nicht glauben, dass die Röhre soweit nach oben geht."
+            }
+        ]
+    },
+    "level34.lvlx": {
+        "npc": [
+            {
+                "i": 83,
+                "orig": "The enemy ahead can be tough.  Use the turnips to take him out as soon as possible.",
+                "talk": "Der Feind vor uns kann schwierig sein.  Verwenden Sie die Rüben, um ihn so schnell wie möglich zu erledigen."
+            }
+        ]
+    },
+    "level35.lvlx": {
+        "npc": [
+            {
+                "i": 407,
+                "orig": "It's dangerous to go alone! Take this.",
+                "talk": "Es ist gefährlich, alleine zu gehen! Nehmen Sie dies."
+            }
+        ]
+    },
+    "level38.lvlx": {
+        "npc": [
+            {
+                "i": 182,
+                "orig": "You better move quick, those platforms don't look sturdy.",
+                "talk": "Sie bewegen sich besser schnell, diese Plattformen sehen nicht robust aus."
+            }
+        ]
+    },
+    "level4.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "This level is red on the world map.  That means there is a secret exit here somewhere.  Can you find it?",
+                "talk": "Dieses Niveau ist rot auf der Weltkarte.  Das heißt, es gibt hier irgendwo einen geheimen Ausgang. Kannst du es finden?"
+            }
+        ]
+    },
+    "level41.lvlx": {
+        "npc": [
+            {
+                "i": 54,
+                "orig": "I dropped all my Frog Coins.  If you find them for me I will give you a reward.",
+                "talk": "Ich habe alle meine Froschmünzen fallen gelassen. Es gibt eine Belohnung wenn Sie für mich alle einsammelst."
+            },
+            {
+                "i": 55,
+                "orig": "You're the best!",
+                "talk": "Du bist der Beste!"
+            },
+            {
+                "i": 56,
+                "orig": "You found all my Frog Coins!  Please take this treasure.",
+                "talk": "Sie haben alle meine Froschmünzen aufgesammelt! Bitte nehmen Sie diesen Schatz."
+            }
+        ]
+    },
+    "level44.lvlx": {
+        "npc": [
+            {
+                "i": 23,
+                "orig": "You brought me all the Red Coins!  Please take my treasure as a reward.",
+                "talk": "Du hast mir alle roten Münzen gebracht!  Bitte nehmen Sie meinen Schatz als Belohnung."
+            },
+            {
+                "i": 24,
+                "orig": "I will give you something special if you bring me all the Red Coins.",
+                "talk": "Ich werde Ihnen etwas Besonderes geben, wenn Sie mir alle roten Münzen bringen."
+            },
+            {
+                "i": 25,
+                "orig": "Thanks again!",
+                "talk": "Nochmals danke!"
+            }
+        ]
+    },
+    "level45.lvlx": {
+        "npc": [
+            {
+                "i": 33,
+                "orig": "Those bubbles look pretty strong.  I wonder if you could actually swim in them?",
+                "talk": "Diese Blasen sehen ziemlich stark aus. Ich frage mich, ob man tatsächlich darin schwimmen könnte?"
+            }
+        ]
+    },
+    "level46.lvlx": {
+        "npc": [
+            {
+                "i": 29,
+                "orig": "The Clown Car is weak on the top side.  It will hurt if an enemy touches you there.",
+                "talk": "Das Clownauto ist auf der Oberseite schwach. Es wird weh tun, wenn ein Feind dich dort berührt."
+            },
+            {
+                "i": 30,
+                "orig": "You can stack those cannons on the Clown Car and fire them while driving!",
+                "talk": "Sie können diese Kanonen auf dem Clownauto stapeln und sie während des Fahrens abfeuern!"
+            }
+        ]
+    },
+    "level5.lvlx": {
+        "events": [
+            {
+                "i": 6,
+                "msg": "Sie können ein Panzer auf viele verschiedene Arten werfen, abhängig von der Richtung, in der Sie das Steuerkreuz halten, wenn Sie den Lauf Knopf loslassen.",
+                "orig": "You can throw a shell in many different ways depending on the direction you are holding the control pad when you let go of the run button."
+            }
+        ],
+        "npc": [
+            {
+                "i": 69,
+                "orig": "You can have anything you find in there.",
+                "talk": "Sie können alles haben, was Sie dort finden."
+            },
+            {
+                "i": 70,
+                "orig": "You got rid of all the purple blocks!  As a reward I'll open this door for you.",
+                "talk": "Sie haben alle lila Blöcke losgeworden! Als Belohnung werde ich diese Tür für Sie öffnen."
+            },
+            {
+                "i": 71,
+                "orig": "I've been ordered to get rid of all the purple blocks.  I'm going to be here all night.",
+                "talk": "Ich wurde befohlen, alle lila Blöcke loszuwerden. Ich werde die ganze Nacht hier sein."
+            }
+        ]
+    },
+    "level6.lvlx": {
+        "events": [
+            {
+                "i": 3,
+                "msg": "Halte nach UNTEN und drücke den LAUF Knopf um Feinde zu heben während Sie auf die Feinde stehen.",
+                "orig": "Hold DOWN and press the RUN button to grab enemies while standing on them."
+            }
+        ]
+    },
+    "level7.lvlx": {
+        "npc": [
+            {
+                "i": 148,
+                "orig": "If we are underground, why can I still see the sky?",
+                "talk": "Wenn wir unter der Erde sind, warum kann ich dann den Himmel immer noch sehen?"
+            }
+        ]
+    },
+    "level8.lvlx": {
+        "npc": [
+            {
+                "i": 298,
+                "orig": "You can't take this through the pipe.  Try hitting it now and see if anything happens on the other side.",
+                "talk": "Sie können dies nicht durch die Röhre führen.  Versuchen Sie es jetzt zu benutzen und sehen Sie, ob auf der anderen Seite etwas passiert."
+            },
+            {
+                "i": 300,
+                "orig": "I wonder what's on the other side of this wall?  I bet if I had a hammer I could smash through it.",
+                "talk": "Ich frage mich, was sich auf der anderen Seite dieser Wand befindet. Ich wette, wenn ich einen Hammer hätte, könnte ich ihn durchschlagen."
+            }
+        ]
+    },
+    "level9.lvlx": {
+        "npc": [
+            {
+                "i": 12,
+                "orig": "My rocket was hit by one of those bombs.  Now I'm stuck here.",
+                "talk": "Meine Rakete wurde von einem dieser Bomben getroffen.  Jetzt stecke ich hier fest."
+            }
+        ]
+    },
+    "world.wldx": {
+        "credits": "Redigit\n\nÜbersetzer: Liebling",
+        "credits-n": "Redigit\n\nÜbersetzer: Liebling",
+        "credits-orig": "Redigit\n",
+        "levels": [
+            {
+                "i": 0,
+                "orig": "Megaton Vase Hole",
+                "tit": "Megaton-Vasenloch"
+            },
+            {
+                "i": 1,
+                "orig": "Warp to Subcon Underground",
+                "tit": "Warpen zur Unterbewusst-Untergrund"
+            },
+            {
+                "i": 2,
+                "orig": "Grassy Grass Grasslands",
+                "tit": "Grasbewachsenes Grasland"
+            },
+            {
+                "i": 3,
+                "orig": "The Lost Woods",
+                "tit": "Die verlorene Wäldern"
+            },
+            {
+                "i": 4,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Warpen zur Frostiger Frost Frostlande"
+            },
+            {
+                "i": 5,
+                "orig": "Dungeon of Pain",
+                "tit": "Verlies des Schmerzes"
+            },
+            {
+                "i": 6,
+                "orig": "Misplaced Pipehammer Maze",
+                "tit": "Verlegtes Pipehammer-Labyrinth"
+            },
+            {
+                "i": 7,
+                "orig": "The Mole Hole",
+                "tit": "Das Maulwurfsloch"
+            },
+            {
+                "i": 8,
+                "orig": "Subcon Nightmare Land",
+                "tit": "Unterbewusst-Albtraumland"
+            },
+            {
+                "i": 9,
+                "orig": "Super Easy Road",
+                "tit": "Super Einfachstraße"
+            },
+            {
+                "i": 10,
+                "orig": "Warp to Subcon Underground",
+                "tit": "Warpen zur Unterbewusst-Untergrund"
+            },
+            {
+                "i": 11,
+                "orig": "Warp to Mushroom Plains",
+                "tit": "Warpen zur Pilzebenen"
+            },
+            {
+                "i": 12,
+                "orig": "White Savage Zone",
+                "tit": "Weiße Wildzone"
+            },
+            {
+                "i": 13,
+                "orig": "Warp to the Subcon Underground",
+                "tit": "Warpen zur Unterbewusst-Untergrund"
+            },
+            {
+                "i": 14,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Warpen zur Frostiger Frost Frostlande"
+            },
+            {
+                "i": 15,
+                "orig": "Warp to Subcon Underground",
+                "tit": "Warpen zur Unterbewusst-Untergrund"
+            },
+            {
+                "i": 16,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Warpen zur Frostiger Frost Frostlande"
+            },
+            {
+                "i": 17,
+                "orig": "Warp to the Mushroom Plains",
+                "tit": "Warpen zur Pilzebenen"
+            },
+            {
+                "i": 18,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Warpen zur Koopas Königreich"
+            },
+            {
+                "i": 19,
+                "orig": "Floating Brick Niche",
+                "tit": "Schwebende Ziegelnische"
+            },
+            {
+                "i": 20,
+                "orig": "Frigid Awesome Land",
+                "tit": "Kaltes Fantastisches Land"
+            },
+            {
+                "i": 21,
+                "orig": "DO NOT ENTER",
+                "tit": "BETRETEN VERBOTEN"
+            },
+            {
+                "i": 22,
+                "orig": "Warp to Dino Island",
+                "tit": "Warpen zur Dinosaurier-Eiland"
+            },
+            {
+                "i": 23,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Warpen zur Frostiger Frost Frostlande"
+            },
+            {
+                "i": 24,
+                "orig": "The Invasion",
+                "tit": "Die Invasion"
+            },
+            {
+                "i": 25,
+                "orig": "Painful Playland",
+                "tit": "Schmerzhaftes Spielland"
+            },
+            {
+                "i": 26,
+                "orig": "Warp to the Mushroom Plains",
+                "tit": "Warpen zur Pilzebenen"
+            },
+            {
+                "i": 27,
+                "orig": "The Bros. Pad",
+                "tit": "Die Brüdern Feld"
+            },
+            {
+                "i": 28,
+                "orig": "Get Off My Lawn",
+                "tit": "Steig Aus Meinem Rasen"
+            },
+            {
+                "i": 29,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Warpen zur Frostiger Frost Frostlande"
+            },
+            {
+                "i": 30,
+                "orig": "Field of Shotgun Vases",
+                "tit": "Feld der Gewehrvasen"
+            },
+            {
+                "i": 31,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 32,
+                "orig": "Random Water Level",
+                "tit": "Zufälliger Wasserniveau"
+            },
+            {
+                "i": 33,
+                "orig": "The Suck",
+                "tit": "Das Saugen"
+            },
+            {
+                "i": 34,
+                "orig": "Super Nostalgia World",
+                "tit": "Super Nostalgiewelt"
+            },
+            {
+                "i": 35,
+                "orig": "Jumpy Hoppy Turtle Zone",
+                "tit": "Springendes Hoppendes Schildkrötenzone"
+            },
+            {
+                "i": 36,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 37,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 38,
+                "orig": "Brick Hole Massacre",
+                "tit": "Massakierendes Backsteinloch"
+            },
+            {
+                "i": 39,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 40,
+                "orig": "Flying Raccoon Zone",
+                "tit": "Fliegende Waschbärzone"
+            },
+            {
+                "i": 41,
+                "orig": "Pwnhammer Duece",
+                "tit": "Dominanzhammer zweiter Teil"
+            },
+            {
+                "i": 42,
+                "orig": "Super Pipe Action Town",
+                "tit": "Super Röhren Aktionsstadt"
+            },
+            {
+                "i": 43,
+                "orig": "Dungeon of Strange Happenings",
+                "tit": "Verlies des seltsamen Ereignissen"
+            },
+            {
+                "i": 44,
+                "orig": "Go Go Goomba",
+                "tit": "Los Los Gumba"
+            },
+            {
+                "i": 45,
+                "orig": "Switch Action Zone",
+                "tit": "Schalter Aktionszone"
+            },
+            {
+                "i": 46,
+                "orig": "The Great Fish Fiasco",
+                "tit": "Das große Fischfiasko"
+            },
+            {
+                "i": 47,
+                "orig": "Another Bonus Area",
+                "tit": "Ein weiterer Bonusbereich"
+            },
+            {
+                "i": 48,
+                "orig": "Retroville",
+                "tit": "Retrostadt"
+            },
+            {
+                "i": 49,
+                "orig": "Warp to Dino Island",
+                "tit": "Warpen zur Dinosaurier-Eiland"
+            },
+            {
+                "i": 50,
+                "orig": "Warp to Wet Water Zone",
+                "tit": "Warpen zur Nasswasserzone"
+            },
+            {
+                "i": 51,
+                "orig": "A Short Level",
+                "tit": "Ein kurzes Niveau"
+            },
+            {
+                "i": 52,
+                "orig": "Secret Squirrel Area",
+                "tit": "Geheimer Eichhörnchenbereich"
+            },
+            {
+                "i": 53,
+                "orig": "Warp to Frosty Frost Frostlands",
+                "tit": "Warpen zur Frostiger Frost Frostlande"
+            },
+            {
+                "i": 54,
+                "orig": "Dungeon of Agony",
+                "tit": "Verlies der Qual"
+            },
+            {
+                "i": 55,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Warpen zur Koopas Königreich"
+            },
+            {
+                "i": 56,
+                "orig": "Pwnhammer",
+                "tit": "Dominanzhammer"
+            },
+            {
+                "i": 57,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Warpen zur Koopas Königreich"
+            },
+            {
+                "i": 58,
+                "orig": "Underground Battle Arena",
+                "tit": "Unterirdische Kampfarena"
+            },
+            {
+                "i": 59,
+                "orig": "Warp to Wet Water Zone",
+                "tit": "Warpen zur Nasswasserzone"
+            },
+            {
+                "i": 60,
+                "orig": "The Treasure House",
+                "tit": "Das Schatzhaus"
+            },
+            {
+                "i": 61,
+                "orig": "Warp to The Hurtful Hotlands",
+                "tit": "Warpen zu den verletzenden Heißland"
+            },
+            {
+                "i": 62,
+                "orig": "Panic Zone",
+                "tit": "Panikzone"
+            },
+            {
+                "i": 63,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 64,
+                "orig": "Pyramid Action Machine",
+                "tit": "Pyramiden-Aktionsmaschine"
+            },
+            {
+                "i": 65,
+                "orig": "Warp to Koopa Kingdom",
+                "tit": "Warpen zur Koopas Königreich"
+            },
+            {
+                "i": 66,
+                "orig": "Pyramid of Fail",
+                "tit": "Pyramide des Scheiterns"
+            },
+            {
+                "i": 67,
+                "orig": "The Hot Boot",
+                "tit": "Der heiße Stiefel"
+            },
+            {
+                "i": 68,
+                "orig": "Lakitu War Zone",
+                "tit": "Lakitu Kriegzone"
+            },
+            {
+                "i": 69,
+                "orig": "Desert Maze",
+                "tit": "Irrgartenwüste"
+            },
+            {
+                "i": 70,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 71,
+                "orig": "The Rawest Forest",
+                "tit": "Der rohe Wald"
+            },
+            {
+                "i": 72,
+                "orig": "The Invasion 2",
+                "tit": "Die Invasion 2"
+            },
+            {
+                "i": 73,
+                "orig": "Warp to The Rawest Forest",
+                "tit": "Warpen zu den rohen Wäldern"
+            },
+            {
+                "i": 74,
+                "orig": "Sandy Ghosty Hammer Town",
+                "tit": "Sandiger Geisterhammerstadt"
+            },
+            {
+                "i": 75,
+                "orig": "Shell Heaven",
+                "tit": "Himmelpanzer"
+            },
+            {
+                "i": 76,
+                "orig": "Dungeon of Inappropriate Phrases",
+                "tit": "Verlies der Unangemessenen Phrasen"
+            },
+            {
+                "i": 77,
+                "orig": "Warp to The Hurtful Hotlands",
+                "tit": "Warpen zu den verletzenden Heißland"
+            },
+            {
+                "i": 78,
+                "orig": "Warp to The Lava Hole",
+                "tit": "Warpen zum Lavaloch"
+            },
+            {
+                "i": 79,
+                "orig": "The Invasion 3",
+                "tit": "Die Invasion 3"
+            },
+            {
+                "i": 80,
+                "orig": "Token Water Level",
+                "tit": "Token-Wasserniveau"
+            },
+            {
+                "i": 81,
+                "orig": "Oldschool Plumbers",
+                "tit": "Klempner der alten Schule"
+            },
+            {
+                "i": 82,
+                "orig": "The Water is Not a Lie",
+                "tit": "Das Wasser ist Keine Lüge"
+            },
+            {
+                "i": 83,
+                "orig": "Bubbles in the Sky",
+                "tit": "Blasen am Himmel"
+            },
+            {
+                "i": 84,
+                "orig": "Warp to the Rawest Forest",
+                "tit": "Warpen zu den rohen Wäldern"
+            },
+            {
+                "i": 85,
+                "orig": "Star Warp",
+                "tit": "Sternenstraße"
+            },
+            {
+                "i": 86,
+                "orig": "The Invasion 4",
+                "tit": "Die Invasion 4"
+            },
+            {
+                "i": 87,
+                "orig": "Easymode Tanks",
+                "tit": "Einfachmodus Panzern"
+            },
+            {
+                "i": 88,
+                "orig": "Hardmode Tanks",
+                "tit": "Schwermodus Panzern"
+            },
+            {
+                "i": 89,
+                "orig": "The King of Koopas",
+                "tit": "Der König von Koopas"
+            },
+            {
+                "i": 90,
+                "orig": "Dire Dire Rocks",
+                "tit": "Wilde Wassersteine"
+            }
+        ],
+        "title": "Die Invasion 2",
+        "title-orig": "The Invasion 2"
+    }
+}

@@ -1,0 +1,426 @@
+{
+    " episode_title": "Das Prinzessin Klischee",
+    " episode_world": "world.wldx",
+    "bowsers_castle.lvlx": {
+        "events": [
+            {
+                "i": 5,
+                "msg": "Du bist hier! Ich hatte Angst, dass du diesmal nicht für mich kommen würdest.",
+                "orig": "You're here! I was afraid you weren't going to come for me this time."
+            },
+            {
+                "i": 9,
+                "msg": "HILFE!!!",
+                "orig": "HELP!!!"
+            },
+            {
+                "i": 12,
+                "msg": "Bowser: Verabschieden Sie sich von Ihrer kostbaren Prinzessin.",
+                "orig": "Bowser: Say goodbye to your precious princess."
+            }
+        ],
+        "npc": [
+            {
+                "i": 2,
+                "orig": "Hahaha. You're not getting in here. This door has been magically sealed. You would have to gather 10 star pieces to open it. Get lost punk!",
+                "talk": "Hahaha. Du kommst hier nicht rein. Diese Tür wurde magisch versiegelt. Sie müssten 10 Sterne Stücke sammeln, um es zu öffnen. Hau ab, Rotznase!"
+            }
+        ]
+    },
+    "deep_cave.lvlx": {
+        "npc": [
+            {
+                "i": 10,
+                "orig": "I came down here looking for treasure, but all these blocks are in the way.",
+                "talk": "Ich bin hier runter gekommen und habe nach Schätzen gesucht, aber all diese Blöcke sind im Weg."
+            }
+        ]
+    },
+    "frost_house.lvlx": {
+        "npc": [
+            {
+                "i": 0,
+                "orig": "They say this door leads to the Dream World. I just can't seem to get it open.",
+                "talk": "Die sagen, dass diese Tür zur Traumwelt führt. Aber ich kann es einfach nicht öffnen."
+            }
+        ]
+    },
+    "frost_land.lvlx": {
+        "npc": [
+            {
+                "i": 17,
+                "orig": "I'm freezing!",
+                "talk": "Ich friere!"
+            }
+        ]
+    },
+    "frost_warp.lvlx": {
+        "npc": [
+            {
+                "i": 5,
+                "orig": "This pipe leads to the Frosty Frost Frostlands. Have a safe trip!",
+                "talk": "Diese Röhre führt zum Eisiges Eisig Eisland. Ich wünsche Ihnen eine sichere Reise!"
+            }
+        ]
+    },
+    "fungi_village.lvlx": {
+        "events": [
+            {
+                "i": 8,
+                "msg": "Dieb! Jetzt werde ich dir meine wahre Form zeigen!",
+                "orig": "Thief! Now I will show you my true form!"
+            }
+        ],
+        "npc": [
+            {
+                "i": 3,
+                "orig": "Help, goombas are invading my basement!",
+                "talk": "Hilfe, Gumbas dringen in meinen Keller ein!"
+            },
+            {
+                "i": 5,
+                "orig": "Get out of my house!",
+                "talk": "Raus aus meinem Haus!"
+            },
+            {
+                "i": 8,
+                "orig": "This treasure could help you defeat Bowser.  Too bad it's mine!  I don't even want you looking at it.",
+                "talk": "Dieser Schatz könnte dir helfen, Bowser zu besiegen. Zu schade, dass es meins ist! Ich möchte nicht einmal, dass du es dir ansiehst."
+            },
+            {
+                "i": 9,
+                "orig": "I heard there is a star hidden in a cave under Mushroom Pass.",
+                "talk": "Ich habe gehört, dass es einen Stern in einer Höhle unter dem Pilzpass versteckt ist."
+            },
+            {
+                "i": 11,
+                "orig": "So, you are looking for stars? I would ask around town.",
+                "talk": "Also suchst du Sterne? Ich würde in der Stadt fragen."
+            },
+            {
+                "i": 12,
+                "orig": "That thief stole my pie!",
+                "talk": "Dieser Dieb hat meinen Kuchen gestohlen!"
+            },
+            {
+                "i": 13,
+                "orig": "It's a wonderful night in Fungi Village!",
+                "talk": "Es ist eine wundervolle Nacht im Pilzdorf!"
+            },
+            {
+                "i": 14,
+                "orig": "Nom nom nom.",
+                "talk": "Nyam-yum-yum."
+            },
+            {
+                "i": 15,
+                "orig": "You're looking for stars so you can get into Bowser's castle? I'll let you borrow mine.",
+                "talk": "Sie suchen nach Sternen, damit Sie ins Bowser's Schloss gelangen zu können? Dann werde ich eine ausleihen für dich."
+            },
+            {
+                "i": 16,
+                "orig": "Please give it back when you are done.",
+                "talk": "Bitte gibt mir das zurück, wenn Sie fertig sind."
+            },
+            {
+                "i": 19,
+                "orig": "Das ist mein haustier koopa.",
+                "talk": "Das ist mein Haustier Koopa."
+            }
+        ]
+    },
+    "marios_pad.lvlx": {
+        "events": [
+            {
+                "i": 7,
+                "msg": "Vergessen Sie nicht, ein paar Pilze aus dem Keller zu holen.",
+                "orig": "Don't forget to grab a few mushrooms from the basement."
+            }
+        ],
+        "npc": [
+            {
+                "i": 1,
+                "orig": "The Princess was looking for you. She said something about a cake. Why don't you head for the castle to meet her?",
+                "talk": "Die Prinzessin suchte dich. Sie sagte etwas über einen Kuchen. Warum gibst du nicht auf das Schloss, um sie zu treffen?"
+            },
+            {
+                "i": 2,
+                "orig": "You had better get a move on!",
+                "talk": "Sie sollten besser gehen!"
+            }
+        ]
+    },
+    "mushroom_castle.lvlx": {
+        "npc": [
+            {
+                "i": 1,
+                "orig": "Help, the toilet is overflowing!",
+                "talk": "Hilfe, die Toilette ist überfüllt!"
+            },
+            {
+                "i": 2,
+                "orig": "Bowser has once again kidnapped the princess. Take the warp pipe to Vista Hill and rescue her.",
+                "talk": "Bowser hat die Prinzessin erneut entführt. Nehmen Sie die Warp-Röhre nach Vistahügel und rette sie."
+            },
+            {
+                "i": 3,
+                "orig": "It's terrible!",
+                "talk": "Es ist schrecklich!"
+            },
+            {
+                "i": 4,
+                "orig": "The princess has been kidnapped!",
+                "talk": "Die Prinzessin wurde entführt!"
+            },
+            {
+                "i": 5,
+                "orig": "Go talk to the Chancellor.",
+                "talk": "Sprechen Sie mit dem Kanzler."
+            },
+            {
+                "i": 6,
+                "orig": "Help!",
+                "talk": "Hilfe!"
+            },
+            {
+                "i": 7,
+                "orig": "I can't hold it anymore!",
+                "talk": "Ich kann es nicht mehr halten!"
+            },
+            {
+                "i": 8,
+                "orig": "Bowser was here!",
+                "talk": "Bowser war hier!"
+            },
+            {
+                "i": 9,
+                "orig": "I'm waiting in line to use the bathroom.",
+                "talk": "Ich warte in der Schlange, um das Badezimmer zu benutzen."
+            },
+            {
+                "i": 10,
+                "orig": "Toad always takes so long.",
+                "talk": "Toad dauern immer so lange."
+            }
+        ]
+    },
+    "mushroom_heights.lvlx": {
+        "npc": [
+            {
+                "i": 14,
+                "orig": "What are you doing all the way up here? Be careful not to fall off, it's a loooong way down!",
+                "talk": "Was machst du hier oben? Achten Sie darauf, nicht abzufallen, es ist ein laaaanger Weg!"
+            }
+        ]
+    },
+    "mushroom_pass.lvlx": {
+        "npc": [
+            {
+                "i": 48,
+                "orig": "Bowser's minions have taken over this road. Be careful!",
+                "talk": "Bowsers Schergen haben diese Straße übernommen. Seien Sie vorsichtig!"
+            },
+            {
+                "i": 58,
+                "orig": "Great. Now I will never get home.",
+                "talk": "Na super. Jetzt werde ich nie nach Hause kommen."
+            },
+            {
+                "i": 59,
+                "orig": "They've destroyed the bridge! You will have to find another way around.",
+                "talk": "Die haben die Brücke zerstört! Sie müssen einen anderen Weg finden."
+            },
+            {
+                "i": 85,
+                "orig": "Be careful. There is a pink dino up ahead that won't let anyone through.",
+                "talk": "Seien Sie vorsichtig. Es gibt einen rosafarbenden Dino vor uns, der niemanden durchlassen will."
+            }
+        ]
+    },
+    "nimbus_land.lvlx": {
+        "npc": [
+            {
+                "i": 6,
+                "orig": "We get along with all flying creatures here.",
+                "talk": "Wir verstehen uns mit allen fliegenden Kreaturen hier."
+            },
+            {
+                "i": 7,
+                "orig": "If you can open these boxes you can have what's inside.",
+                "talk": "Wenn Sie diese Boxen öffnen können, können Sie das haben, was sich darin befindet."
+            },
+            {
+                "i": 8,
+                "orig": "We don't get many visitors here.",
+                "talk": "Wir bekommen nicht viele Besucher hier."
+            },
+            {
+                "i": 25,
+                "orig": "Welcome to Nimbus Land!",
+                "talk": "Willkommen bei Nimbusland!"
+            },
+            {
+                "i": 26,
+                "orig": "I'M AFRAID OF HEIGHTS!",
+                "talk": "ICH HABE HÖHENANGST!"
+            },
+            {
+                "i": 27,
+                "orig": "I think you may find what you are looking for here.",
+                "talk": "Ich denke, Sie finden vielleicht, wonach Sie hier suchen."
+            },
+            {
+                "i": 28,
+                "orig": "I love it here!",
+                "talk": "Ich liebe es hier!"
+            },
+            {
+                "i": 32,
+                "orig": "Prince Mallow is out right now, but you can take his clown car.",
+                "talk": "Prinz Mallow ist gerade raus, aber Sie können sein Clownauto mitnehmen."
+            }
+        ]
+    },
+    "spiny_farm.lvlx": {
+        "npc": [
+            {
+                "i": 9,
+                "orig": "I wouldn't go in there.",
+                "talk": "Ich würde da nicht hineingehen."
+            },
+            {
+                "i": 10,
+                "orig": "Get me out of here!",
+                "talk": "Bring mich hier raus!"
+            },
+            {
+                "i": 17,
+                "orig": "That jerk tricked us. Now we are stuck down here.",
+                "talk": "Dieser Trottel hat uns betrogen. Jetzt stecken wir hier unten fest."
+            },
+            {
+                "i": 76,
+                "orig": "Stars eh? I think I might have one in my closet.",
+                "talk": "Sterne wie? Ich glaube, ich könnte einen in meinem Schrank haben."
+            }
+        ]
+    },
+    "star_road.lvlx": {
+        "npc": [
+            {
+                "i": 8,
+                "orig": "This door leads to the Forgotten Forest.",
+                "talk": "Diese Tür führt zur Vergessener Wald."
+            },
+            {
+                "i": 9,
+                "orig": "This door leads to the Ghastly Ghosthouse.",
+                "talk": "Diese Tür führt zur Gespenstiges Geisterhaus."
+            },
+            {
+                "i": 10,
+                "orig": "This door leads to the Hurtful Hotlands.",
+                "talk": "Diese Tür führt zur Schmerzliches Heißland."
+            },
+            {
+                "i": 11,
+                "orig": "This door leads to Retro Town.",
+                "talk": "Diese Tür führt zur Retrostadt."
+            },
+            {
+                "i": 14,
+                "orig": "Welcome to Star Road Station!",
+                "talk": "Willkommen bei Sternenweg Station!"
+            },
+            {
+                "i": 15,
+                "orig": "Be careful if you go in here. It's dangerous!",
+                "talk": "Seien Sie vorsichtig, wenn Sie hier reingehen. Es ist gefährlich!"
+            }
+        ]
+    },
+    "world.wldx": {
+        "credits": "Redigit\n\nÜbersetzer: Liebning",
+        "credits-n": "Redigit\n\nÜbersetzer: Liebning",
+        "credits-orig": "Redigit\n",
+        "levels": [
+            {
+                "i": 0,
+                "orig": "Star Road Station",
+                "tit": "Sternenweg Station"
+            },
+            {
+                "i": 1,
+                "orig": "Warp to Mushroom Castle",
+                "tit": "Warpen zur Pilzschloss"
+            },
+            {
+                "i": 2,
+                "orig": "Nimbus Land",
+                "tit": "Nimbusland"
+            },
+            {
+                "i": 3,
+                "orig": "Frosty Frost Frostland",
+                "tit": "Eisiges Eisig Eisland"
+            },
+            {
+                "i": 4,
+                "orig": "Fungi Village",
+                "tit": "Pilzdorf"
+            },
+            {
+                "i": 5,
+                "orig": "Warp to Mushroom Castle",
+                "tit": "Warpen zur Pilzschloss"
+            },
+            {
+                "i": 6,
+                "orig": "Mushroom Castle",
+                "tit": "Pilzschloss"
+            },
+            {
+                "i": 7,
+                "orig": "Warp to Vista Hill",
+                "tit": "Warpen zur Vistahügel"
+            },
+            {
+                "i": 8,
+                "orig": "Strange House",
+                "tit": "Seltsames Haus"
+            },
+            {
+                "i": 9,
+                "orig": "Mushroom Heights",
+                "tit": "Pilzhöhen"
+            },
+            {
+                "i": 10,
+                "orig": "Spiny Farm",
+                "tit": "Stachifarm"
+            },
+            {
+                "i": 11,
+                "orig": "Mushroom Pass",
+                "tit": "Pilzpass"
+            },
+            {
+                "i": 12,
+                "orig": "Warp to Frostland",
+                "tit": "Warpen zur Eisland"
+            },
+            {
+                "i": 13,
+                "orig": "Mario's Pad",
+                "tit": "Mario's Feld"
+            },
+            {
+                "i": 14,
+                "orig": "Bowser's Castle",
+                "tit": "Bowser's Schloss"
+            }
+        ],
+        "title": "Das Prinzessin Klischee",
+        "title-orig": "The Princess Cliché"
+    }
+}
