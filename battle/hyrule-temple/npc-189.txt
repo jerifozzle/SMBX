@@ -1,6 +1,0 @@
-width=34
-height=64
-gfxwidth=34
-gfxheight=64
-nofireball=1
-noiceball=1

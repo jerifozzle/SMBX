@@ -4,8 +4,8 @@
   "description": "Play SMBX on TheXTech",
   "display": "fullscreen",
   "orientation": "landscape-primary",
-  "scope": "https://wohlsoft.ru/projects/TheXTech/smbx-on-web-debug/",
-  "start_url": "https://wohlsoft.ru/projects/TheXTech/smbx-on-web-debug/index.html",
+  "scope": "https://wohlsoft.ru/projects/TheXTech/smbx-on-web-debug-stable/",
+  "start_url": "https://wohlsoft.ru/projects/TheXTech/smbx-on-web-debug-stable/index.html",
   "icons": [
     {
       "src": "thextech_32.png",
