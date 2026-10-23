@@ -3,7 +3,7 @@
 
 // configuration
 const app_id = "wohlsoft-smbx-thextech-stable-1.3.7.x"
-const current_version = "wohlsoft-smbx-thextech-stable-1.3.7.x-8c84455";
+const current_version = "wohlsoft-smbx-thextech-stable-1.3.7.x-5181deb";
 const scope = "https://wohlsoft.ru/projects/TheXTech/smbx-on-web-debug-stable/";
 const executable_name = "smbx";
 
