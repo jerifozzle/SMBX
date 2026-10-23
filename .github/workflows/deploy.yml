@@ -1,0 +1,29 @@
+name: Package Assets
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Package Game Assets
+        run: |
+          python file_packager.py game_assets.data --js-output=game_assets.js --preload dreams_and_illusions@/worlds/dreams_and_illusions
+
+      - name: Commit packaged assets back to main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add game_assets.data game_assets.js
+          git diff-index --quiet HEAD || git commit -m "auto"
+          git push
