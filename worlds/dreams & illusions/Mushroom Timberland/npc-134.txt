@@ -1,0 +1,6 @@
+Width=20
+Height=20
+Gfxwidth=20
+Gfxheight=20
+Frames=4
+Framestyle=0

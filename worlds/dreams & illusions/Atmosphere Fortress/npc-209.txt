@@ -1,0 +1,11 @@
+Width=154
+Height=124
+Gfxwidth=154
+Gfxheight=124
+Jumphurt=1
+Playerblocktop=0
+Playerblock=0
+Npcblock=0
+Npcblocktop=0
+Frames=2
+Framestyle=1

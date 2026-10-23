@@ -1,0 +1,7 @@
+width=144
+height=98
+gfxheight=98
+gfxwidth=144
+noiceball=1
+nofireball=1
+framespeed=16

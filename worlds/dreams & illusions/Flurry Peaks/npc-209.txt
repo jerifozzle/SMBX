@@ -1,0 +1,9 @@
+Width=128
+Height=98
+Gfxwidth=128
+gfxHeight=178
+Playerblocktop=0
+Playerblock=0
+Npcblocktop=0
+Npcblock=0
+Jumphurt=1

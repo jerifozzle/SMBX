@@ -1,0 +1,6 @@
+width=46
+height=22
+gfxwidth=46
+gfxheight=22
+cliffturn=0
+speed=2
